@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't really know. I'm a fashion designer and I need a new pattern for some clothing I'm working on.
+DALLE: Okay, what kind of clothing?
+CUSTOMER: It's a dress.
+DALLE: What material is it made of?
+CUSTOMER: Silk.
+DALLE: What style are you going for?
+CUSTOMER: I'm not really sure. I was thinking maybe something with a lot of texture, or maybe something more smooth and sleek.
+DALLE: Do you want it to be simple or complex?
+CUSTOMER: I'm not sure. What do you think?
+DALLE: Well, for something like silk, a complex design might be nice. It can really show off the material.
+CUSTOMER: That sounds good. I like the idea of a complex design.
+DALLE: Is there anything else you'd like to include?

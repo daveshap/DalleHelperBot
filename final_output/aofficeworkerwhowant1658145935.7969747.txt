@@ -1,0 +1,21 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know I want something for my cubicle at work.
+DALLE: Okay, can you tell me a little more about your job and company culture?
+CUSTOMER: I work in an office. It's a pretty standard corporate culture, I guess.
+DALLE: And what kind of personality do you have?
+CUSTOMER: I'm pretty laid back. I like to have fun at work, but I'm also pretty professional.
+DALLE: Okay, so you want something that's fun but also professional-looking?
+CUSTOMER: Yeah, that sounds right.
+DALLE: Do you have any ideas about what kind of scene or setting you want?
+CUSTOMER: Not really. I just want something that looks cool.
+DALLE: Okay, how about a cityscape?
+CUSTOMER: That could work.
+DALLE: What kind of camera lens and angle do you want?
+CUSTOMER: I don't know. What do you suggest?
+DALLE: How about a wide-angle lens with a bird's eye view?
+CUSTOMER: That sounds good.
+DALLE: Do you want any particular effects?
+CUSTOMER: Not really. I just want it to look cool.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a cityscape, taken from a bird's eye view with a wide-angle lens. The scene is brightly lit and the colors are saturated. There are no particular effects.

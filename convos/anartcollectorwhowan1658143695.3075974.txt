@@ -1,0 +1,7 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know I want a new painting for my collection.
+DALLE: Okay, well what kind of painting are you looking for? What's the scene, setting, or subject matter that you're interested in?
+CUSTOMER: I don't know. I just want something that looks good.
+DALLE: Do you have any ideas about the style of painting you want? Something abstract? Realistic? Surrealistic?
+CUSTOMER: I'm not sure. What do you suggest?
+DALLE: Think of an example of something similar and describe it to me.

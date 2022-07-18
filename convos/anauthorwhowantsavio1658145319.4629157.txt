@@ -1,0 +1,12 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a cover for my book.
+DALLE: What's the book about?
+CUSTOMER: It's a fantasy novel about a war.
+DALLE: What kind of war?
+CUSTOMER: A big one, with many different armies fighting.
+DALLE: Do you have any specific requirements for the cover?
+CUSTOMER: I want it to look like a real battle, with lots of blood and fighting.
+DALLE: I'm sorry, but I can't do violence. Can you give me another idea?
+CUSTOMER: How about a scene with the different armies lined up, ready to fight?
+DALLE: That sounds good. Are there any other elements you would like to include?
+CUSTOMER: No, that's it.

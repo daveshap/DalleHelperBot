@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just need a landscape for a game I'm designing.
+DALLE: Okay, what kind of landscape are you looking for?
+CUSTOMER: I'm not really sure. Maybe something with mountains and forests.
+DALLE: Do you want it to be realistic or more stylized?
+CUSTOMER: I'm not really sure. Maybe something in between?
+DALLE: Okay, what kind of feeling do you want the landscape to have?
+CUSTOMER: I'm not really sure. Maybe something peaceful and calming.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a landscape with mountains and forests. The mountains are not too tall and the forests are dense. The feeling of the landscape is peaceful and calming.

@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I want something different, with a unique perspective.
+DALLE: Okay, well let's start with what you're looking for. Is it a nature scene?
+CUSTOMER: Yeah, I want something with a lot of trees and greenery.
+DALLE: Do you want it to be close up, or further away?
+CUSTOMER: I want it to be close up, but with a lot of detail.
+DALLE: What kind of camera do you want to use?
+CUSTOMER: I want to use a DSLR with a telephoto lens.
+DALLE: What kind of angle do you want?
+CUSTOMER: I want to be able to see the whole scene, but I want the focus to be on the tree in the middle.
+DALLE: Would you like me to add any effects?
+CUSTOMER: I want it to look natural, but with a bit of a dreamy feel.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image will be a close up of a tree in the middle of a nature scene. The focus will be on the tree, but the whole scene will be visible. The camera will be a DSLR with a telephoto lens. The angle will be such that the whole scene is visible, but the focus is on the tree. The image will look natural, but with a bit of a dreamy feel.

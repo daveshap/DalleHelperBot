@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new campaign ad.
+DALLE: Okay, what are you running for?
+CUSTOMER: Congress.
+DALLE: Who is your target audience?
+CUSTOMER: Middle-aged white women.
+DALLE: What is your platform?
+CUSTOMER: universal healthcare, gun reform, and climate change.
+DALLE: What feeling do you want to communicate in your ad?
+CUSTOMER: I want to appear strong and competent.
+DALLE: What kind of background are you thinking of?
+CUSTOMER: I'm not sure. What do you suggest?
+DALLE: We could do a nature scene with you in the foreground.
+CUSTOMER: That sounds good.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a middle-aged white woman standing in the foreground of a nature scene. She appears strong and competent. The background scene includes trees, a river, and mountains.

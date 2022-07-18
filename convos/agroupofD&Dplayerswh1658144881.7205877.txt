@@ -1,0 +1,19 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're not really sure. We're a group of D&D players and we want a group art.
+DALLE: Okay, I can definitely do that. Can you tell me a little more about your characters? Races, genders, and anything else you can think of that might be relevant.
+CUSTOMER: We have a human fighter, an elf ranger, a dwarf paladin, and a halfling rogue. They're all pretty standard except the halfling is a bit of a tomboy.
+DALLE: Got it. And what's the setting of your campaign?
+CUSTOMER: We're in a medieval Europe-esque world.
+DALLE: Okay, so nothing too out of the ordinary then. What's the subject matter you're looking for?
+CUSTOMER: We want a painting of our group fighting a dragon.
+DALLE: Sounds great! What style are you looking for?
+CUSTOMER: We want it to be realistic.
+DALLE: Okay, I can definitely do that. Can you tell me a little more about the scene? What's happening before and after the fight, what's the atmosphere like, that sort of thing.
+CUSTOMER: We're fighting the dragon in a cave. It's a bit of a desperate battle because we're badly outnumbered and outclassed.
+DALLE: Okay, I can see that. What kind of feeling are you going for?
+CUSTOMER: We want it to be intense and suspenseful.
+DALLE: I can definitely do that. Are there any particular effects you're looking for?
+CUSTOMER: We want the dragon to be spitting fire and we want to be using magic.
+DALLE: Okay, I can definitely do that. Do you have any other requests or suggestions?
+CUSTOMER: We're not really sure. Whatever you think would look good, we're open to suggestions.
+DALLE: Is there anything else you'd like to include?

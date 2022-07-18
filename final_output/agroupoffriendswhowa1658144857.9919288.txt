@@ -1,0 +1,23 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're not sure. We want a new painting for our apartment but we don't know what we want.
+DALLE: Well, let's figure it out together. How many people are in your group?
+CUSTOMER: There are four of us.
+DALLE: What are your genders?
+CUSTOMER: We're two women and two men.
+DALLE: What are your ethnicities?
+CUSTOMER: We're all Caucasian.
+DALLE: What are some of the things you like to do together?
+CUSTOMER: We like to go out to eat, drink, and dance. We also like to travel.
+DALLE: What are some of the places you've travelled to?
+CUSTOMER: We've been to Europe, Asia, and the Americas.
+DALLE: What are some of your favorite things to do in your hometown?
+CUSTOMER: We like to go hiking, biking, and camping. We also like to go to the beach.
+DALLE: What is your favorite season?
+CUSTOMER: We like spring and summer the best.
+DALLE: What kind of colors do you like?
+CUSTOMER: We like bright colors.
+DALLE: What style are you looking for?
+CUSTOMER: We're not sure. Maybe something abstract?
+DALLE: Would you like some suggestions?
+CUSTOMER: ALL DONE
+DALLE: The painting is of a group of four people. Two women and two men. They are all Caucasian. They are standing in front of a bright blue background. They are all smiling and seem to be enjoying each other's company.

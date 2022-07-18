@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know I want a painting of my favorite animal.
+DALLE: What is your favorite animal?
+CUSTOMER: I really like tigers.
+DALLE: Great! What would you like the painting to look like? 
+CUSTOMER: I'm not sure. Maybe with the tiger in a jungle setting?
+DALLE: Sure. What kind of mood are you looking for?
+CUSTOMER: Something that looks really cool and fierce.
+DALLE: Okay. Would you like the tiger to be the only thing in the painting, or would you like there to be other elements as well?
+CUSTOMER: I'm not sure. What do you think?
+DALLE: I think it could be really cool to have the tiger in the foreground with the jungle in the background. What do you think?
+CUSTOMER: That sounds great!
+DALLE: Is there anything else you'd like to include?

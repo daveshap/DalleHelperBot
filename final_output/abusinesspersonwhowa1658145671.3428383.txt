@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new website for my business.
+DALLE: Okay, what is your business?
+CUSTOMER: I'm a life coach.
+DALLE: What kind of look and feel are you going for on your website?
+CUSTOMER: I want it to look professional, but also warm and inviting.
+DALLE: Do you have any specific colors in mind?
+CUSTOMER: I like blues and greens.
+DALLE: Is there anything else you can tell me about what you're looking for?
+CUSTOMER: I want my website to be easy to navigate, and I need it to be mobile-friendly.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a website that is professional looking, with a warm and inviting feel. The colors are blues and greens, and the website is easy to navigate. The website is also mobile-friendly.

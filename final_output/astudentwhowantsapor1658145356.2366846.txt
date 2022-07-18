@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: A family portrait.
+DALLE: Okay, what kind of family?
+CUSTOMER: Husband, wife, two kids.
+DALLE: And what about the setting?
+CUSTOMER: Just at our house.
+DALLE: Is there anything special you want me to capture about your family?
+CUSTOMER: Just our everyday life.
+DALLE: Okay, so nothing too posed or staged then. Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image shows a family of four posing for a picture in their front yard. The father and mother are standing next to each other with their children in front of them. The family is smiling and looking at the camera.

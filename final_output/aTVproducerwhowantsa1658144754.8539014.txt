@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a new opening title sequence for my TV show.
+DALLE: Okay, can you tell me a little bit about the show?
+CUSTOMER: It's a comedy about a group of friends in their twenties.
+DALLE: And what kind of feeling do you want to convey with the opening sequence?
+CUSTOMER: I want it to be funny and light-hearted.
+DALLE: Okay, so we're looking for something that's funny and light-hearted. Can you tell me a little bit about the characters?
+CUSTOMER: The main character is a slacker named Jeff. He's in his twenties and lives with his friends. They're all a little lazy and they get into a lot of wacky situations.
+DALLE: So we're looking for something that's funny and light-hearted, with characters that are a little bit lazy and get into wacky situations. Is there anything else you can tell me about the show?
+CUSTOMER: That's about it.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: We see a group of people in their twenties hanging out together. They're all slackers, and they get into a lot of wacky situations. The opening sequence is funny and light-hearted.

@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a new pattern for some clothing I'm designing.
+DALLE: Okay, what kind of clothing is it?
+CUSTOMER: It's a dress.
+DALLE: What kind of fabric is it?
+CUSTOMER: Silk.
+DALLE: What style is it?
+CUSTOMER: I'm not sure. Maybe something flowing?
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image shows a woman in a flowing silk dress. The dress is pale pink and has a high neckline. The skirt is full and falls to just below the knee. The sleeves are fitted and end at the elbow. The waist is cinched with a belt made of the same fabric as the dress.

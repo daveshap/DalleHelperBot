@@ -1,0 +1,23 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're not really sure. We want something for our apartment, but we don't know what.
+DALLE: Okay, well, let's start with who is going to be living in this apartment?
+CUSTOMER: Me and my three friends.
+DALLE: Do you all have similar interests?
+CUSTOMER: Yeah, we're all into music and art.
+DALLE: What kind of music do you like?
+CUSTOMER: Hip-hop, R&B, and rap.
+DALLE: Okay, and what kind of art do you like?
+CUSTOMER: We like paintings and photography.
+DALLE: Do you have any specific ideas for the painting?
+CUSTOMER: Not really. We just want something that represents us and our interests.
+DALLE: Okay, well, let me ask you some questions and see if we can narrow it down. Do you want a specific scene or setting?
+CUSTOMER: No, not really.
+DALLE: Okay, what about the subject? Is there anything you definitely want in the painting?
+CUSTOMER: We want it to be of us, but we're not sure what we should be doing.
+DALLE: Okay, well, how do you want to feel when you look at the painting?
+CUSTOMER: We want to feel happy and represented.
+DALLE: Okay, so you want something that makes you feel good when you look at it. Are there any other effects you want?
+CUSTOMER: No, that's it.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The painting should be of the customer and their three friends. They should be doing something that represents their interests, such as listening to music or looking at art. The painting should make them feel happy and represented.

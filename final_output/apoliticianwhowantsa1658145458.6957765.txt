@@ -1,0 +1,16 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need something for my campaign.
+DALLE: What's your platform?
+CUSTOMER: I'm running for office.
+DALLE: What office?
+CUSTOMER: Congress.
+DALLE: Okay, so you need something to communicate your platform to the electorate.
+CUSTOMER: Yes.
+DALLE: What are your thoughts?
+CUSTOMER: I don't really know. I need something that will make me look good.
+DALLE: Do you have any ideas about what you want?
+CUSTOMER: Not really. I need something that will make me look competent and trustworthy.
+DALLE: Do you want to communicate anything specific to the electorate?
+CUSTOMER: I want to communicate that I'm a fighter and I will fight for them.
+CUSTOMER: ALL DONE
+DALLE: The customer is looking for an image that will make them look good and communicate their platform to the electorate. They specifically want to look competent and trustworthy, and communicate that they are a fighter.

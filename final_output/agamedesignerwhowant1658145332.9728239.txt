@@ -1,0 +1,16 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a landscape for a video game I'm working on, but I don't know what kind of style I want or where it should be.
+DALLE: Well, let's start with the style. What kind of feeling are you going for with the game? Is it meant to be intense and action-packed, or more serene and relaxed?
+CUSTOMER: The game is supposed to be pretty intense. Lots of action, fighting, and adventure.
+DALLE: Okay, so you probably want something that looks pretty intense and dangerous then. Maybe something with a lot of detail, like a cityscape, or something more abstract, like a dark forest?
+CUSTOMER: I like the cityscape idea.
+DALLE: Great! Now, do you have any ideas about where this city should be? Is it in our world, or a fantasy world?
+CUSTOMER: It's in a fantasy world.
+DALLE: That's great! Now, do you have any ideas about what kind of city it is? Is it a bustling metropolis, or a more rural town?
+CUSTOMER: It's a metropolis.
+DALLE: Perfect! Now, do you have any ideas about what time of day it is, or what the weather is like?
+CUSTOMER: I was thinking maybe nighttime, with a storm brewing.
+DALLE: That sounds great! I can definitely do something with that.
+CUSTOMER: Thank you, I appreciate it.
+CUSTOMER: ALL DONE
+DALLE: The image is of a cityscape at night, with a storm brewing. The city is a metropolis, with tall buildings and bright lights. The sky is dark and ominous, with thunderclouds gathering.

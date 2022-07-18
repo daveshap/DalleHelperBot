@@ -1,0 +1,25 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a violent scene, with two people fighting.
+DALLE: I'm sorry, but I don't do violence.
+CUSTOMER: Okay, then how about a scene with two people arguing?
+DALLE: That's better. Now, what kind of setting do you want?
+CUSTOMER:Um, maybe a battlefield?
+DALLE: What kind of battlefield?
+CUSTOMER: I don't know, like a medieval one?
+DALLE: Okay, that's doable. Now, who are the people in the scene?
+CUSTOMER: I don't know, just two people.
+DALLE: Do you want them to be men, women, or children?
+CUSTOMER: Men, I guess.
+DALLE: What are they wearing?
+CUSTOMER: Um, armor?
+DALLE: Okay, that works. Now, what are they doing?
+CUSTOMER: Just arguing, I guess.
+DALLE: Do you want them to be shouting at each other?
+CUSTOMER: Yeah, that would be good.
+DALLE: Okay. Now, what kind of feeling do you want in the scene?
+CUSTOMER: Angry, I guess.
+DALLE: Okay. And what kind of effects do you want?
+CUSTOMER: I don't know, just make it look cool.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: Two men dressed in armor are shouting at each other on a battlefield. They are surrounded by other men in armor, who are also shouting. The scene is one of chaos and anger.

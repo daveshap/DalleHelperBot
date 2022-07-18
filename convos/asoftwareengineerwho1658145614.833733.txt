@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know that I want something abstract.
+DALLE: Okay, well, let's brainstorm some ideas then. What kind of colors do you want?
+CUSTOMER: I want something that's really vibrant and Eye-catching.
+DALLE: Okay, how about we try something with a lot of blues and greens?
+CUSTOMER: Yeah, that sounds good.
+DALLE: What about a landscape?
+CUSTOMER: Yeah, that could be cool.
+DALLE: Okay, do you want it to be more of a realistic painting or more abstract?
+CUSTOMER: I want it to be abstract.
+DALLE: Okay, how about we try something with a lot of swirls and curves?
+CUSTOMER: Yeah, that sounds good.
+DALLE: Is there anything else you'd like to include?

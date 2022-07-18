@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know I want something for my cubicle at work.
+DALLE: Ok, let's start with your job. What do you do?
+CUSTOMER: I work in an office.
+DALLE: And what's the company culture like?
+CUSTOMER: It's pretty traditional. Nothing too out there.
+DALLE: Got it. And how would you describe your personality?
+CUSTOMER: I'm pretty laid back. I like to keep things simple.
+DALLE: Alright. So based on what you've told me, I'm thinking something like a still life or landscape would be good for your office. What do you think?
+CUSTOMER: Yeah, that sounds good.
+DALLE: Great. Now, what kind of feeling do you want from the piece?
+CUSTOMER: I don't know. Something calming, I guess.
+DALLE: Ok. And what sort of colors do you like?
+CUSTOMER: I'm not really sure. Something muted, I think.
+DALLE: Alright. So based on what you've told me, I'm thinking something like this still life might be good for you. What do you think?
+CUSTOMER: Yeah, that looks nice.
+DALLE: Is there anything else you'd like to include?

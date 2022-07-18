@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a cover for my new book.
+DALLE: Sure, what kind of book is it?
+CUSTOMER: It's a romance novel.
+DALLE: What kind of scene, setting, subject, style, feeling, and effects do you want?
+CUSTOMER: I want it to be set in a garden, with the heroine and hero standing close together, looking longingly at each other. I want the feeling to be steamy and passionate.
+DALLE: I can do that. Do you have any specific ideas about the camera lens and angle you want?
+CUSTOMER: No, I'll leave that up to you.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image should show a garden scene, with the heroine and hero standing close together, looking longingly at each other. The feeling should be steamy and passionate.

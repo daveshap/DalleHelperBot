@@ -1,0 +1,25 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know that I want a painting of my favorite animal.
+DALLE: Okay, what is your favorite animal?
+CUSTOMER: I really like elephants.
+DALLE: Great! What would you like the painting to look like?
+CUSTOMER: I'm not sure. Maybe something like the elephant is in its natural habitat, like a jungle or something.
+DALLE: Okay, that sounds like a great idea. Would you like the painting to be realistic or more abstract?
+CUSTOMER: I'm not sure. What are the options?
+DALLE: Well, we could make the painting realistic, where it looks like an actual photograph of an elephant in the jungle. Or we could make it more abstract, where the colors and shapes are more important than making it look like a realistic painting.
+CUSTOMER: I think I would like it to be more realistic.
+DALLE: Okay, that's great. Would you like to have the painting be of a specific scene, or just the elephant by itself?
+CUSTOMER: I think a specific scene would be nice.
+DALLE: Okay, what kind of scene would you like?
+CUSTOMER: Maybe something like the elephant is in the middle of the jungle, with trees and vines all around it.
+DALLE: That sounds great. Would you like there to be any other animals in the painting?
+CUSTOMER: No, I think just the elephant would be fine.
+DALLE: Okay, that's great. Would you like the painting to be in color or black and white?
+CUSTOMER: I think I would like it to be in color.
+DALLE: Okay, that's great. What kind of colors would you like?
+CUSTOMER: I'm not sure. Maybe something like green for the trees and vines, and gray for the elephant.
+DALLE: Okay, that sounds great. Is there anything else you can think of that you would like in the painting?
+CUSTOMER: No, I think that's it.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The painting shows an elephant in the middle of a jungle, with trees and vines all around it. The elephant is gray, and the trees and vines are green.

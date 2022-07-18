@@ -1,0 +1,7 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a violent battle scene for my book.
+DALLE: I can't do violence. Is there anything else you need?
+CUSTOMER: No, that's it.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The scene shows two armies clashing in a bloody battle. The ground is littered with the bodies of the fallen, and the air is thick with the smoke of battle. The soldiers are fighting fiercely, and the only sound is the clash of weapons and the screams of the wounded.

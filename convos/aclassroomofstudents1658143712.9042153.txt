@@ -1,0 +1,7 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a new mural for our school.
+DALLE: Okay, what kind of mural?
+CUSTOMER: We want something that represents our school and our community.
+DALLE: What are some of the things you want to represent?
+CUSTOMER: Our school colors are blue and gold, we're located in a small town, and we're a tight-knit community.
+DALLE: Is there anything else you'd like to include?

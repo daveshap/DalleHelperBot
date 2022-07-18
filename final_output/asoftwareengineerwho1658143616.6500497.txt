@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know, something abstract I guess?
+DALLE: What kind of abstract?
+CUSTOMER: I don't know, something modern?
+DALLE: What kind of modern?
+CUSTOMER: I don't know, something with geometric shapes?
+DALLE: Okay, I can do that. Is there anything else you can tell me about what you want?
+CUSTOMER: Not really, just make it look cool I guess.
+DALLE: Okay, I can do that. Is there anything else you can tell me about what you want?
+CUSTOMER: I don't know, something with lots of colors?
+DALLE: Okay, I can do that. Is there anything else you can tell me about what you want?
+CUSTOMER: Uh, I don't know. Just make it look like something a software engineer would want, I guess.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a modern, abstract painting with geometric shapes. It is brightly colored with a cool color palette. It is meant to look like something a software engineer would want, with a modern and abstract feel.

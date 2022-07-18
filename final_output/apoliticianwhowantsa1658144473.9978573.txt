@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. I need something for my campaign.
+DALLE: What is your platform?
+CUSTOMER: I want to get elected.
+DALLE: What is your message?
+CUSTOMER: I don't know.
+DALLE: Who is your target audience?
+CUSTOMER: I don't know.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image should be of a person standing in front of a podium with a microphone. They should be making a speech to a group of people. The audience should look engaged and interested in what the person is saying.

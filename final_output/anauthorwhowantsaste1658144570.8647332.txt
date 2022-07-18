@@ -1,0 +1,20 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a book cover.
+DALLE: What kind of book is it?
+CUSTOMER: Romance.
+DALLE: What kind of romance?
+CUSTOMER: Steamy.
+DALLE: I'm sorry, I can't do sexual images.
+CUSTOMER: What if the characters are just kissing?
+DALLE: That's fine. What else can you tell me about the cover?
+CUSTOMER: I'm not sure. I want it to be mysterious.
+DALLE: Okay. Do you want a background or just the characters?
+CUSTOMER: Just the characters.
+DALLE: What do you want them to be doing?
+CUSTOMER: I'm not sure. Maybe they could be standing close together, looking into each other's eyes?
+DALLE: Okay. Do you have any specific colors in mind?
+CUSTOMER: Blue and silver.
+DALLE: Anything else?
+CUSTOMER: I think that's it.
+CUSTOMER: ALL DONE
+DALLE: The image requested is of a blue and silver book cover with a close up of a man and woman staring deep into each other's eyes. They are standing close together with their faces almost touching.

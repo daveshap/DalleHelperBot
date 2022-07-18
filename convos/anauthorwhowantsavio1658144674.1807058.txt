@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a cover for my book.
+DALLE: What is the book about?
+CUSTOMER: It's a fantasy novel with a lot of action.
+DALLE: What kind of action?
+CUSTOMER: Lots of fighting and bloodshed.
+DALLE: I'm sorry, but I don't do violence. Can you tell me more about the scene you want?
+CUSTOMER: It's a battle scene. There are two armies fighting each other.
+DALLE: What kind of feeling do you want from the image?
+CUSTOMER: I want it to be intense and exciting.
+DALLE: What colors do you want to see?
+CUSTOMER: I want it to be very dark, with reds and oranges for the fire.
+DALLE: Do you want any specific elements in the scene?
+CUSTOMER: I want to see a lot of people fighting and dying.
+DALLE: Is there anything else you can tell me about what you want?
+CUSTOMER: I'm not sure. I'll know it when I see it.
+DALLE: Is there anything else you'd like to include?

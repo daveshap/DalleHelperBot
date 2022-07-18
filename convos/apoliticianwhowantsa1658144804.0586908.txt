@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new campaign ad.
+DALLE: What platform are you running on?
+CUSTOMER: I'm a politician.
+DALLE: What electorate are you trying to reach?
+CUSTOMER: I want to communicate my message to the public.
+DALLE: What message do you want to communicate?
+CUSTOMER: I want to convey that I am trustworthy and will fight for the people.
+DALLE: What kind of image do you want?
+CUSTOMER: I want an image that is trustworthy and shows that I care about the people.
+DALLE: Is there anything else you'd like to include?

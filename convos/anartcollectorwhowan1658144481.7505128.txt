@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know that I want a new painting.
+DALLE: Okay, well what kind of painting are you looking for?
+CUSTOMER: I don't really know. I just know that I want something that's really pretty.
+DALLE: Okay, well what kind of colors do you like?
+CUSTOMER: I like really bright colors.
+DALLE: Okay, well what kind of subject matter are you interested in?
+CUSTOMER: I don't really know. I just know that I want something that's really pretty.
+DALLE: Okay, well let me ask you this. What kind of feeling do you want your painting to have?
+CUSTOMER: I want it to be really peaceful and calming.
+DALLE: Okay, well let me ask you this. What kind of effects do you want your painting to have?
+CUSTOMER: I'm not sure, what kind of effects can you do?
+DALLE: For a painting, I could make it realistic or impressionistic for example. Would you like more styles and effects?

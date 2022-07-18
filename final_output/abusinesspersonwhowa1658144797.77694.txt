@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new website.
+DALLE: Okay, what kind of business are you in?
+CUSTOMER: I'm a consultant.
+DALLE: What kind of consulting?
+CUSTOMER: Business strategy.
+DALLE: What does your business do?
+CUSTOMER: We help businesses improve their strategies.
+DALLE: How do you want the website to look?
+CUSTOMER: I want it to look professional and modern.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image shows a laptop with a blank screen. The screen is divided into four quadrants, each with a different image. In the top left quadrant is a image of a shaking hand with a pen. In the top right quadrant is a image of a lightbulb. In the bottom left quadrant is a image of a puzzle piece. In the bottom right quadrant is a image of a gavel.

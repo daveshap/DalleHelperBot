@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know. I want a new painting for my collection, but I'm not sure what I want.
+DALLE: Okay, well, let's start with the artist. Who do you like?
+CUSTOMER: I like Warhol and Dali.
+DALLE: Okay, what kind of style are you looking for?
+CUSTOMER: I don't know. Something different.
+DALLE: What kind of mood do you want?
+CUSTOMER: Something cheerful.
+DALLE: What about the subject?
+CUSTOMER: I don't know. A landscape?
+DALLE: What kind of landscape?
+CUSTOMER: I don't know. A beach maybe?
+DALLE: Okay. Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The painting is of a beach landscape. The sky is a bright blue and the sun is shining. The water is a turquoise color and the sand is a light brown. There are palm trees and people on the beach.

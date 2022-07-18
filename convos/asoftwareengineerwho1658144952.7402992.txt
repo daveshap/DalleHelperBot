@@ -1,0 +1,10 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need an abstract design for my website.
+DALLE: Okay, let's brainstorm some ideas. What kind of feeling do you want your website to evoke?
+CUSTOMER: I want it to look modern and sleek.
+DALLE: Okay, what kind of colors do you want to use?
+CUSTOMER: I'm not sure. Maybe some blues and grays?
+DALLE: Okay, let's try a design with some blue and gray geometric shapes. How does that sound?
+CUSTOMER: That sounds good. Can you show me some examples?
+DALLE: I can't show you any examples, but I can make some suggestions.
+CUSTOMER: Okay, what have you got?

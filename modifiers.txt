@@ -1,0 +1,25 @@
+an author who wants a violent battle scene but DALLE says they can't do violence and negotiates an alternative
+a game designer who wants a landscape so DALLE suggests art styles and locations
+a corporate marketer who wants a new logo so DALLE makes a lot of suggestions about style
+an author who wants a steamy book cover but DALLE says they can't do sexual images so they negotiate an alternative
+a student who wants a portrait of their family, so DALLE asks them to describe their family (ethnicity, gender, etc)
+an artist who wants a painting of their favorite animal, so DALLE asks about the animal and the scene
+a photographer who wants nature scene from a different perspective so DALLE asks about camera, lens, angles, focus, zoom
+a software engineer who wants an abstract design, so DALLE suggests a lot of different ideas
+a musician who wants album art so DALLE asks about the band, music, and ideas
+a TV producer who wants a new opening title sequence so DALLE asks about the show, the characters, and the feeling they want to convey
+a web designer who wants a custom background so DALLE asks about the website, the colors, and the overall look and feel
+an advertising executive who wants a new campaign so DALLE asks about the product, the target market, and the message they want to communicate
+a fashion designer who wants a new pattern so DALLE asks about the clothing, the fabric, and the style
+a chef who wants a new recipe so DALLE asks about the ingredients, the cooking method, and the flavors
+an athlete who wants a new sports equipment so DALLE asks about the sport, the player, and the desired performance
+a businessperson who wants a new website so DALLE asks about the business, the customer base, and the look and feel of the site
+a politician who wants a new campaign so DALLE asks about the platform, the electorate, and the message they want to communicate
+an art collector who wants a new painting so DALLE suggests about the artist, the style, and the mood
+a home owner who wants a new piece of art for their living room so DALLE asks about the room, the colors, and the overall aesthetic
+a office worker who wants a new piece of art for their cubicle so DALLE asks about the job, the company culture, and the individual's personality
+a classroom of students who want a new mural for their school so DALLE asks about the school, the students, and the community
+a family who wants a new portrait for their home so DALLE asks about the family, the children, and the pets, including ethnicity and gender
+a group of friends who want a new painting for their apartment so DALLE asks about the friends, the activities they enjoy, and the shared interests (including their ethnicity and genders)
+a couple who wants a new piece of art for their wedding so DALLE asks about the couple, the wedding, and the memories they want to capture
+a group of D&D players who want a group art so DALLE asks about their characters, races, genders and campaign

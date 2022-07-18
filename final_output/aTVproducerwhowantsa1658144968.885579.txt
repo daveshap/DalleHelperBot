@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a new opening title sequence for my TV show. 
+DALLE: What's the show about? 
+CUSTOMER: It's a drama about a family in the mob.
+DALLE: What kind of feeling do you want to convey with the title sequence? 
+CUSTOMER: We want it to be intense and edgy. 
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The requested image is of a television show opening title sequence that is intense and edgy. The sequence should convey the feeling of a family in the mob.

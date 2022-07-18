@@ -1,0 +1,21 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. I need some new sports equipment.
+DALLE: What sport do you play?
+CUSTOMER: Soccer.
+DALLE: What position do you play?
+CUSTOMER: Forward.
+DALLE: What are your favorite teams?
+CUSTOMER: I like the US women's national team and Manchester City.
+DALLE: What kind of equipment do you need?
+CUSTOMER: Soccer cleats and a new soccer ball.
+DALLE: What kind of cleats do you need?
+CUSTOMER: I need cleats that will help me run faster.
+DALLE: What size do you need?
+CUSTOMER: 10.
+DALLE: What color do you want?
+CUSTOMER: I want black and white cleats.
+DALLE: Do you have a design in mind?
+CUSTOMER: I want something that looks fast.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: A pair of black and white soccer cleats. The cleats are designed to help the player run faster. They are size 10.

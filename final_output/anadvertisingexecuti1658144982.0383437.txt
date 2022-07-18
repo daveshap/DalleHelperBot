@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. I need a new campaign for my product.
+DALLE: What's your product?
+CUSTOMER: It's a new line of cosmetics.
+DALLE: What's the target market?
+CUSTOMER: Women in their 20s and 30s.
+DALLE: What's the message you want to communicate?
+CUSTOMER: That our product is fun, hip, and trendy.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: A close-up of a woman's face with bright, vibrant makeup. The focus is on the eyes, which are heavily shadowed and lined in a deep, rich black. The lashes are thick and long, with a dramatic winged effect. The rest of the face is fairly natural, with a light pink blush on the cheeks and a nude lipstick. There is a small tag on the side of the image with the cosmetics brand name.

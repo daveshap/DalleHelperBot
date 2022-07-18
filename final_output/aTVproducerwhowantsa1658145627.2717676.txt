@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a new opening title sequence for my TV show.
+DALLE: OK, can you tell me a little bit about your show?
+CUSTOMER: It's a comedy about a family of vampires who live in a small town.
+DALLE: That sounds interesting. What kind of feeling do you want to convey in the opening title sequence?
+CUSTOMER: I want it to be funny, but also a little spooky.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a family of vampires standing in front of their house in a small town. The house is old and dilapidated, and the vampires are all wearing tattered clothing. They all have pale skin and dark circles under their eyes, and they look exhausted. The image is meant to be both funny and spooky.

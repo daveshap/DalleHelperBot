@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need an opening title sequence for my new TV show.
+DALLE: Okay, what's the show about?
+CUSTOMER: It's a drama about a family in the city.
+DALLE: What kind of feeling do you want to conveyed in the title sequence?
+CUSTOMER: We want it to be intense and edgy, to set the tone for the show.
+DALLE: Okay, so we're looking for something dark and moody then. What kind of images do you want?
+CUSTOMER: I want there to be different shots of the city at night, with the family in silhouette.
+DALLE: That sounds great. I can use different camera lenses and angles to get the shots you want.
+CUSTOMER: And can you add some effects to make it look more intense?
+DALLE: Absolutely. I can add some dark shadows and make the colors more saturated.
+CUSTOMER: That sounds perfect. Thank you so much!
+DALLE: Is there anything else you'd like to include?

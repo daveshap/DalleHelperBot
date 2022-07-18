@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new logo for my business.
+DALLE: What kind of business are you in?
+CUSTOMER: I'm a corporate marketer.
+DALLE: What kind of feeling do you want your logo to convey?
+CUSTOMER: I want it to look modern and professional.
+DALLE: What colors do you want to use?
+CUSTOMER: Blue and green.
+DALLE: What style do you want?
+CUSTOMER: Something clean and simple.
+DALLE: I think I have a good understanding of what you're looking for. Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a blue and green logo that is modern and professional looking. The style is clean and simple.

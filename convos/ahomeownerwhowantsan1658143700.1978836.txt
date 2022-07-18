@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know, something for my living room.
+DALLE: Sure, what's the room like?
+CUSTOMER: It's beige and has a lot of light.
+DALLE: What kind of art are you looking for?
+CUSTOMER: I don't know, something modern.
+DALLE: What's the overall aesthetic of your home?
+CUSTOMER: Minimalist.
+DALLE: Okay, I have some ideas. Would you like a digital print, photography, 3D rendering, or painting?
+CUSTOMER: What are my options?
+DALLE: Well, with digital prints you can choose the size, frame, and paper type. With photography, you can pick the camera lens and angle. And with 3D rendering, you can specify the scene, setting, and subject.
+CUSTOMER: What do you suggest?
+DALLE: I think a digital print would look good in your living room.

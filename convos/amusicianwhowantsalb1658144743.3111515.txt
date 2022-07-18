@@ -1,0 +1,16 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need album art for my band.
+DALLE: Okay, what's your band's name?
+CUSTOMER: Amorphous Blob.
+DALLE: What kind of music do you play?
+CUSTOMER: Progressive metal.
+DALLE: What does your band look like?
+CUSTOMER: We're all in black, with face paint.
+DALLE: What kind of feeling do you want the art to evoke?
+CUSTOMER: I want it to be dark and mysterious.
+DALLE: What kind of setting do you want?
+CUSTOMER: I want it to be in a forest at night.
+DALLE: What kind of camera angles and lenses are you thinking of?
+CUSTOMER: I'm not sure.
+DALLE: Do you want me to suggest some options?
+CUSTOMER: Yes, please.

@@ -1,0 +1,7 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a new painting for our apartment.
+DALLE: Okay, what kind of scene, setting, subject, style, feeling, or effects are you looking for?
+CUSTOMER: We want something that captures our friendship and the fun we have together.
+DALLE: Anything else?
+CUSTOMER: We want it to be colorful and happy.
+DALLE: Is there anything else you'd like to include?

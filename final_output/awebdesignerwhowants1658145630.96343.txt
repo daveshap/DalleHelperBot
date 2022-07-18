@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a custom background for my website.
+DALLE: Okay, what kind of website is it?
+CUSTOMER: It's a personal website.
+DALLE: What colors are on the website?
+CUSTOMER: Mostly blues and greens.
+DALLE: What kind of feeling are you going for?
+CUSTOMER: calming, refreshing.
+DALLE: Do you want any specific elements in the background?
+CUSTOMER: Not really, just something nice to look at.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: A ocean scene with a green and blue gradient. In the center of the image, there is a sun with rays emanating outwards. The bottom of the image has green and blue waves crashing against the shore.

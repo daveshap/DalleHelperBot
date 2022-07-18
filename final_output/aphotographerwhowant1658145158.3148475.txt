@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'd like a nature scene, but I'm not sure what kind of camera angles or lens I want.
+DALLE: Okay, well, let's try a few different options and see what you think. I have a wide-angle lens that would give you a lot of the landscape in the photo, or we could use a telephoto lens to focus in on one particular part of the scene.
+CUSTOMER: Can you give me an example of each?
+DALLE: Sure. With the wide-angle lens, your photo would include more of the surroundings.
+CUSTOMER: I think I prefer the wide-angle lens.
+DALLE: Okay, why don't we try that one first? What kind of setting are you looking for?
+CUSTOMER: A desert
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The photo shows a sandy desert landscape with mountains in the distance. The sky is a bright blue with some fluffy white clouds.

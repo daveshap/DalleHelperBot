@@ -1,0 +1,16 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new website.
+DALLE: What kind of business are you in?
+CUSTOMER: I'm a consultant.
+DALLE: What kind of consulting?
+CUSTOMER: Business and strategy.
+DALLE: What does your business do?
+CUSTOMER: We help companies with their business strategy.
+DALLE: Who is your target audience?
+CUSTOMER: Businesses of all sizes.
+DALLE: What kind of look and feel are you going for?
+CUSTOMER: I want it to look professional and modern.
+DALLE: Do you have any specific colors in mind?
+CUSTOMER: Blue and grey.
+DALLE: Okay, I'll see what I can do. Are you looking for anything else?
+CUSTOMER: No, that's it for now. Thank you.

@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need some album art.
+DALLE: Okay, what's the album about?
+CUSTOMER: It's about my band and our music.
+DALLE: What kind of music do you play?
+CUSTOMER: We're a rock band.
+DALLE: What kind of rock?
+CUSTOMER: We're a punk rock band.
+DALLE: Okay, so something punk rock then. What kind of feel do you want for the album art?
+CUSTOMER: I want it to be cool and edgy.
+DALLE: Okay, we can definitely do that. What kind of scene, setting, or subject do you want?
+CUSTOMER: I'm not sure.
+DALLE: Well, what are some ideas you have?
+CUSTOMER: I want it to be cool and edgy.
+DALLE: Okay, we can definitely do that. What kind of scene, setting, or subject do you want?
+CUSTOMER: ALL DONE
+DALLE: The scene is set in a dark, abandoned alleyway. There is graffiti on the walls and trash strewn about. In the center of the image is the band, dressed in punk rock attire. They are performing on stage, with the lead singer02 shining a bright spotlight on them.

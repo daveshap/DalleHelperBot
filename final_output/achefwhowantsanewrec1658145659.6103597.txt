@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a new recipe for dinner tonight.
+DALLE: What kind of recipe are you looking for?
+CUSTOMER: Something with chicken, I think.
+DALLE: What flavors do you want?
+CUSTOMER: I'm not really sure. Something spicy, I think.
+DALLE: Do you want a curry?
+CUSTOMER: That sounds good.
+DALLE: What ingredients do you have?
+CUSTOMER: Chicken, rice, some vegetables.
+DALLE: I can make a chicken curry for you.
+CUSTOMER: That sounds great. Thank you.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: A woman hands a customer a container of food. The container is filled with a yellow-orange liquid and chunks of white meat. There is steam coming from the container.

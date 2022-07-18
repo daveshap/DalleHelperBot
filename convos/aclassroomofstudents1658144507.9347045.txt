@@ -1,0 +1,8 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a mural for our school.
+DALLE: Ok, what kind of mural?
+CUSTOMER: We want something that depicts our school community.
+DALLE: What does your school community look like?
+CUSTOMER: We're a small, close-knit community.
+DALLE: What kind of colors do you want?
+CUSTOMER: We want something that is bright and cheerful.

@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a family portrait.
+DALLE: Okay, let's get started. How many people are in your family?
+CUSTOMER: Five.
+DALLE: Okay, and can you tell me a little bit about your family?
+CUSTOMER: We're a mixed race family. My parents are from different countries and we have three kids.
+DALLE: That sounds like a really interesting family! I'm sure I could come up with a really great portrait for you. Can you tell me a little bit about what kind of style you're looking for?
+CUSTOMER: Somewhat traditional.
+DALLE: Is there anything else you'd like to include?

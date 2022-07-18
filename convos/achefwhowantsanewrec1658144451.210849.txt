@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. What do you have?
+DALLE: I can do anything - digital art, photography, 3D renders, painting. Nothing is off limits except violence and sexual images.
+CUSTOMER: Okay, let's do a painting.
+DALLE: What would you like the painting to be of?
+CUSTOMER: I'm not sure. What do you have?
+DALLE: I can do anything - digital art, photography, 3D renders, painting. Nothing is off limits except violence and sexual images.
+CUSTOMER: Okay, let's do a painting of a landscape.
+DALLE: What kind of landscape would you like?
+CUSTOMER: I'm not sure. What do you have?
+DALLE: I can do mountains, forests, deserts, seascapes, cityscapes, etc.
+CUSTOMER: Okay, let's do a painting of a mountain landscape.
+DALLE: What kind of mountain landscape would you like?
+CUSTOMER: I'm not sure. What do you have?
+DALLE: Is there anything else you'd like to include?

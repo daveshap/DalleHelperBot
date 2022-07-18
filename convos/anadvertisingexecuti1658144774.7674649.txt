@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new ad campaign for my product.
+DALLE: What kind of product is it?
+CUSTOMER: It's a new food product.
+DALLE: What is the target market for this product?
+CUSTOMER: Families with young children.
+DALLE: What message do you want to communicate with this product?
+CUSTOMER: We want to communicate that our product is healthy and nutritious.
+DALLE: Is there anything else you'd like to include?

@@ -1,0 +1,7 @@
+Write a detailed description of the image requested in the following conversation. The image description should be one or two sentences.
+
+
+<<CONVO>>
+
+
+DETAILED IMAGE DESCRIPTION:

@@ -1,0 +1,16 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know. Something for my new sports equipment maybe?
+DALLE: What sport do you play?
+CUSTOMER: Basketball.
+DALLE: What do you need the equipment for?
+CUSTOMER: To shoot hoops.
+DALLE: What kind of performance are you looking for?
+CUSTOMER: I want to be able to shoot accurately.
+DALLE: Do you have any specific ideas about what you want the image to look like?
+CUSTOMER: Not really. Maybe something with a basketball hoop and a basketball?
+DALLE: What kind of feeling do you want the image to convey?
+CUSTOMER: I want it to look cool.
+DALLE: Do you want me to add any special effects?
+CUSTOMER: No, I don't think so. Just make it look cool.
+CUSTOMER: ALL DONE
+DALLE: The image is of a basketball hoop with a basketball in front of it. The basketball is not touching the ground, as if it has just been shot. The background is a solid color, preferably blue. There are no special effects.

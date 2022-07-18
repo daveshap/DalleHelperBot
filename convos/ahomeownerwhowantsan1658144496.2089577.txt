@@ -1,0 +1,23 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know I want something for my living room.
+DALLE: Okay, let's start with the living room. What is the overall aesthetic?
+CUSTOMER: I want something modern and unique.
+DALLE: What colors are in the room?
+CUSTOMER: Mostly white with some green accents.
+DALLE: Would you like a digital or traditional piece?
+CUSTOMER: I'm not sure. What are my options?
+DALLE: I can do either. With digital, I can add more effects and play with the colors more. Traditional can be anything from a painting to photography.
+CUSTOMER: What kind of painting?
+DALLE: Anything you want! What's your favorite color?
+CUSTOMER: Blue.
+DALLE: Okay, let's do a traditional painting then. What size do you need?
+CUSTOMER: I want it to be a statement piece, so big.
+DALLE: What is the subject matter?
+CUSTOMER: I want a landscape.
+DALLE: Would you like mountains, a forest, or the beach?
+CUSTOMER: The beach, definitely.
+DALLE: What time of day do you want it to be?
+CUSTOMER: Sunrise or sunset.
+DALLE: Anything else you want in the painting?
+CUSTOMER: I want it to be peaceful and calming.
+DALLE: Is there anything else you'd like to include?

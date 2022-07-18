@@ -1,0 +1,23 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need some album art for my band.
+DALLE: Ok, what kind of band are you?
+CUSTOMER: We're a rock band.
+DALLE: What kind of music do you play?
+CUSTOMER: Hard rock.
+DALLE: What are some ideas you have for the album art?
+CUSTOMER: I want it to be dark and gritty.
+DALLE: Do you want it to be realistic or more abstract?
+CUSTOMER: Realistic.
+DALLE: Do you have any ideas for the scene or setting?
+CUSTOMER: I want it to be set in a city at night.
+DALLE: What kind of city?
+CUSTOMER: A dirty, urban city.
+DALLE: What about the subject?
+CUSTOMER: I want it to be our band.
+DALLE: Do you want it to be a portrait or action shot?
+CUSTOMER: Action shot.
+DALLE: Do you have any ideas for the feeling or mood you want to convey?
+CUSTOMER: I want it to be dark and edgy.
+DALLE: Would you like me to add any special effects?
+CUSTOMER: Yes, I want it to look like it's on fire.
+DALLE: Is there anything else you'd like to include?

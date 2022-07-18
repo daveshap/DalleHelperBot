@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need album art for my band's new album.
+DALLE: Do you have any ideas about what you want the art to look like?
+CUSTOMER: Not really. I just know that I want it to be really cool and look professional.
+DALLE: Okay, well let's start with the band. What kind of music do you play?
+CUSTOMER: We're a rock band.
+DALLE: Do you have any particular songs that are particularly meaningful to you or represent the album well?
+CUSTOMER: There's this one song called "The Weight of the World" that I think would be great for the cover. It's about overcoming obstacles and struggling through tough times.
+DALLE: That sounds like a really powerful song. I'm sure we can come up with something that captures that feeling. Do you have any ideas about what you want the art to look like?
+CUSTOMER: I want it to be dark and gritty, but also have a sense of hope and perseverance.
+DALLE: Is there anything else you'd like to include?

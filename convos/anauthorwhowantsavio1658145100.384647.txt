@@ -1,0 +1,5 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a violent battle scene for my book.
+DALLE: I can't do violence. Is there anything else you need?
+CUSTOMER: No, that's it.
+DALLE: Is there anything else you'd like to include?

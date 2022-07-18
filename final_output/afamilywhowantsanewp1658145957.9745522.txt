@@ -1,0 +1,23 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a new family portrait for our home.
+DALLE: Okay, how many people are in your family?
+CUSTOMER: There are four of us - my wife, my two kids, and me.
+DALLE: What are the ages of your children?
+CUSTOMER: My son is eleven and my daughter is nine.
+DALLE: Do you have any pets?
+CUSTOMER: We have a dog. His name is Max.
+DALLE: What kind of dog is he?
+CUSTOMER: He's a golden retriever.
+DALLE: Okay, now, what do you want the portrait to look like? What kind of feeling do you want it to have?
+CUSTOMER: We want it to look happy and welcoming. We want it to look like our family is happy and close-knit.
+DALLE: Any particular colors you want me to use?
+CUSTOMER: We like natural colors.
+DALLE: What type of background do you want?
+CUSTOMER: We were thinking maybe of a park or somewhere outdoors.
+DALLE: Okay, so a nature scene. Any specific park you have in mind?
+CUSTOMER: No, just a nice, pretty park.
+DALLE: All right. And how should I pose you?
+CUSTOMER: We were thinking maybe we could all be sitting on a blanket, with Max in the middle. And we could all have our arms around each other.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: A family of four, a mother, father, son, and daughter, are sitting on a blanket with their golden retriever, Max, in the middle. They are all smiling and have their arms around each other, signifying their close relationship. The background is of a pretty park, with green grass and trees.

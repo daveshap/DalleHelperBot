@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not entirely sure. I'm working on a game and I need a landscape but I don't know what kind of style I want.
+DALLE: Okay, well, let's explore some options then. What kind of game are you making?
+CUSTOMER: It's a video game set in a magical world.
+DALLE: Okay, so we could go for a naturalistic landscape or something more stylized. What sort of feel are you going for with your game?
+CUSTOMER: I want it to feel like the players are discovering this world for the first time.
+DALLE: Okay, so we could go for a misty, ethereal landscape or a more vibrant, colorful one. Are there any specific locations or scenes in your game that need a landscape?
+CUSTOMER: Yeah, there's a scene where the characters are on a journey and they come to a fork in the road. I need a landscape that shows the different paths they could take.
+DALLE: Okay, so we could go for a more symbolic landscape with two different paths diverging into the distance or we could show the actual fork in the road with the different paths leading off into different directions. What kind of effects do you want in the landscape?
+CUSTOMER: I want it to be kind of dreamy and surreal.
+DALLE: Okay, so we could add some swirls of color or light, or we could make the landscape itself be in a dreamlike state. Are you looking for anything else in particular?
+CUSTOMER: No, I think that's it.
+DALLE: Is there anything else you'd like to include?

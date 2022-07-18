@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know, something dark and intense.
+DALLE: What kind of dark and intense?
+CUSTOMER: Like a battle scene.
+DALLE: I can't do violence.
+CUSTOMER: Fine, then make it a dark and intense battle scene without the violence.
+DALLE: Okay, what kind of setting do you want?
+CUSTOMER: A dark forest
+DALLE: Do you want it to be night or day?
+CUSTOMER: Night
+DALLE: What kind of mood do you want?
+CUSTOMER: Intense and foreboding
+DALLE: What kind of effects do you want?
+CUSTOMER: I don't know, make it look cool.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: This image is of a dark and intense forest. It is night time, and the mood is intense and foreboding. The effects are cool and make the image look awesome.

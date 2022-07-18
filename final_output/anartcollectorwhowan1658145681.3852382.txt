@@ -1,0 +1,14 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know, something new I guess.
+DALLE: What kind of art are you into?
+CUSTOMER: I like paintings, but I don't know what I want.
+DALLE: What's your favorite color?
+CUSTOMER: Blue.
+DALLE: What's your favorite artist?
+CUSTOMER: I like Monet.
+DALLE: What style are you looking for?
+CUSTOMER: Maybe something like Monet, but I'm not sure.
+DALLE: Would you like me to suggest some options?
+CUSTOMER: Yes, please.
+CUSTOMER: ALL DONE
+DALLE: The image is of a Monet painting. It is a scene with a pond and lily pads. The sky is a light blue and the trees are a greenish-yellow. The water is a light blue-green.

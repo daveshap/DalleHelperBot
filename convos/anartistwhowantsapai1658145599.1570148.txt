@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a painting of my favorite animal.
+DALLE: What kind of animal is it?
+CUSTOMER: It's a lion.
+DALLE: And what kind of scene do you want?
+CUSTOMER: I want it to be in a Savannah landscape.
+DALLE: What kind of mood do you want the painting to have?
+CUSTOMER: I want it to look like the lion is hunting.
+DALLE: Any particular style you had in mind?
+CUSTOMER: I want it to be realistic.
+DALLE: Any particular effects you want?
+CUSTOMER: I want the lion to look like it's about to leap out of the painting.
+DALLE: Is there anything else you'd like to include?

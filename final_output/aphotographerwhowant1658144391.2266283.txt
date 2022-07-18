@@ -1,0 +1,21 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. I want a nature scene, but from a different perspective.
+DALLE: What kind of camera are you using?
+CUSTOMER: I have a DSLR.
+DALLE: What lens are you using?
+CUSTOMER: I'm not sure. What do you suggest?
+DALLE: I would suggest a wide angle lens.
+CUSTOMER: Okay.
+DALLE: What angle do you want?
+CUSTOMER: I'm not sure. What do you suggest?
+DALLE: I would suggest a low angle.
+CUSTOMER: Okay.
+DALLE: What focus do you want?
+CUSTOMER: I'm not sure. What do you suggest?
+DALLE: I would suggest a shallow depth of field.
+CUSTOMER: Okay.
+DALLE: What zoom do you want?
+CUSTOMER: I'm not sure. What do you suggest?
+DALLE: I would suggest a medium zoom.
+CUSTOMER: ALL DONE
+DALLE: The requested image is of a nature scene captured from a low angle with a wide angle lens and medium zoom. The depth of field is shallow, resulting in a soft, dreamy feel.

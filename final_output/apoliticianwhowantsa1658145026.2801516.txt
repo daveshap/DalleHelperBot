@@ -1,0 +1,29 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need something for my campaign.
+DALLE: Okay, what kind of campaign is it?
+CUSTOMER: I'm running for office.
+DALLE: What office?
+CUSTOMER: Congress.
+DALLE: What party?
+CUSTOMER: Democrat.
+DALLE: Okay, so you need something that's going to appeal to Democrats.
+CUSTOMER: Yes.
+DALLE: What are your thoughts on the platform?
+CUSTOMER: I'm not really sure. I need something that's going to appeal to the voters.
+DALLE: What are your thoughts on the electorate?
+CUSTOMER: I'm not really sure. I need something that's going to appeal to the voters.
+DALLE: What is your message?
+CUSTOMER: I'm not really sure. I need something that's going to appeal to the voters.
+DALLE: What are your thoughts on the campaign?
+CUSTOMER: I'm not really sure. I need something that's going to appeal to the voters.
+DALLE: What do you want the campaign to achieve?
+CUSTOMER: I'm not really sure. I need something that's going to appeal to the voters.
+DALLE: Okay, so you need something that's going to appeal to the voters.
+CUSTOMER: Yes.
+DALLE: What are your thoughts on the campaign?
+CUSTOMER: I'm not really sure. I need something that's going to appeal to the voters.
+DALLE: What do you want the campaign to achieve?
+CUSTOMER: I'm not really sure. I need something that's going to appeal to the voters.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a person standing at a podium with a microphone in front of them. They are surrounded by a large group of people, all of whom are looking at the speaker attentively. The speaker has a confident and determined expression on their face.

@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I'm a chef and I'm looking for a new recipe.
+DALLE: Okay, what kind of ingredients do you have?
+CUSTOMER: I have chicken, broccoli, and rice.
+DALLE: What cooking method do you want to use?
+CUSTOMER: I was thinking of stir-frying.
+DALLE: What kind of flavors do you want?
+CUSTOMER: I'm thinking something with a lot of garlic and ginger.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a plate of food with chicken, broccoli, and rice. The chicken and broccoli are stir-fried and there is a sauce with garlic and ginger on top.

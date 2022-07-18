@@ -1,0 +1,23 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a new opening title sequence for my TV show.
+DALLE: Okay, well, let's start with the show itself. What's it about?
+CUSTOMER: It's a comedy about a dysfunctional family.
+DALLE: Okay, so we want something that's going to be funny and light-hearted, but maybe with a bit of an edge to it.
+CUSTOMER: Exactly.
+DALLE: Do you have any specific ideas about what you want it to look like?
+CUSTOMER: Not really. I just know I want it to be different from what everyone else is doing.
+DALLE: Okay, well, how about we start with the characters then. Who are the main characters and what are they like?
+CUSTOMER: There's the dad, who's a bit of a slob, and the mom, who's always stressed out. Then there are the two kids, a teenage girl and a younger boy.
+DALLE: Okay, so we definitely want to focus on the family dynamic. Do you want it to be set in their house or some other location?
+CUSTOMER: Their house would be fine.
+DALLE: Okay, so we'll have some shots of the exterior of the house and then some scenes inside as well. Are there any particular scenes that you want to include?
+CUSTOMER: Not really. Just some everyday stuff that would be funny to watch.
+DALLE: Okay, so we'll just come up with some scenarios then. Do you want the characters to be animated or live-action?
+CUSTOMER: Animated would be fine.
+DALLE: Okay, so we'll create some animated characters and then animate them doing everyday things. Do you have any specific style in mind?
+CUSTOMER: Just something that looks good.
+DALLE: Okay, well, we can definitely work with that. Do you have any other ideas or suggestions?
+CUSTOMER: Not really. I'll leave it up to you.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The title sequence will show the exterior of a house, with some trees and a lawn. The camera will then pan inside, showing the dad relaxing on the couch, the mom doing some housework, and the two kids playing. The characters will be animated and will be doing everyday things that would be funny to watch.

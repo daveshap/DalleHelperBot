@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. I need a new pattern for some clothing I'm designing.
+DALLE: Okay, let's start with the basics then. What kind of clothing are we talking about?
+CUSTOMER: It's a dress.
+DALLE: What material is it made out of?
+CUSTOMER: Silk.
+DALLE: And what style are you going for?
+CUSTOMER: I'm not sure. Maybe something with a lot of texture?
+DALLE: Is there anything else you'd like to include?

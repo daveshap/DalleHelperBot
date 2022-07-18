@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a new campaign for my product.
+DALLE: What is your product?
+CUSTOMER: We make a natural soap.
+DALLE: Who is your target market?
+CUSTOMER: Women, 25-54.
+DALLE: What message do you want to communicate?
+CUSTOMER: We want to show that our soap is gentle and natural.
+DALLE: Would you like a digital art piece, photograph, 3D render, or painting?
+CUSTOMER: I'm not sure. What do you suggest?
+DALLE: For something like this, a photograph might be best. I could use different camera lenses and angles to get the effect you're looking for.
+CUSTOMER: That sounds great. Let's go with a photograph.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a woman's hands, with one hand gently cradling a bar of soap. The soap is white and unadorned, and the background is a soft, light blue. The focus is on the soap, and the hands look gentle and caretaking.

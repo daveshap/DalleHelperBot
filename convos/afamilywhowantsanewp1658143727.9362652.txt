@@ -1,0 +1,28 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a new family portrait.
+DALLE: Okay, what kind of family portrait do you want?
+CUSTOMER: We're not really sure. We just want something that looks nice and captures our family dynamic.
+DALLE: Do you want a formal portrait or a more casual one?
+CUSTOMER:Casual would be fine.
+DALLE: Do you want it to be indoors or outdoors?
+CUSTOMER: outdoors
+DALLE: What time of day do you want it to be?
+CUSTOMER: morning
+DALLE: Do you have a particular location in mind?
+CUSTOMER: No, wherever you think would look good.
+DALLE: Okay, I have a few ideas. Would you like to hear them?
+CUSTOMER: Yes, please.
+DALLE: I could do a portrait of your family in your backyard, or if you have a park nearby that you like, we could go there.
+CUSTOMER: That sounds nice. Let's do the backyard.
+DALLE: Do you have any pets?
+CUSTOMER: Yes, we have a dog and a cat.
+DALLE: Would you like to include them in the portrait?
+CUSTOMER: Yes, that would be great.
+DALLE: Okay, I'll need to know a little bit about your family. How many people are there?
+CUSTOMER: There are four of us.
+DALLE: What are the ages of your children?
+CUSTOMER: We have a son who is six and a daughter who is four.
+DALLE: What is your dog's name?
+CUSTOMER: Max.
+DALLE: What is your cat's name?
+CUSTOMER: Mia.

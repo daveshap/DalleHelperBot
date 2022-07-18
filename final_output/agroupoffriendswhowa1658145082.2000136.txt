@@ -1,0 +1,19 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're not really sure. We want a painting for our apartment, but we're not sure what we want.
+DALLE: Okay, well, let's start with who the painting is for. Who are you and what do you like to do?
+CUSTOMER: We're a group of friends. We like to hang out and have fun. We're all different ethnicities and genders.
+DALLE: Okay, so you want a painting that represents your friendship and diversity. Are there any particular scenes or settings you would like?
+CUSTOMER: We're not sure. Maybe something that shows us all having fun together?
+DALLE: Okay, so a scene of you all hanging out and having fun. Would you like it to be specific to any particular activity?
+CUSTOMER: No, just general hanging out.
+DALLE: Okay, so a scene of you all just hanging out. Is there anything else you would like to include in the painting?
+CUSTOMER: We're not sure. Maybe something that represents our shared interests?
+DALLE: Okay, so a scene of you all hanging out and something that represents your shared interests. Would you like the painting to be in any particular style?
+CUSTOMER: No, we're not sure. Whatever you think would look good.
+DALLE: Okay, so a scene of you all hanging out and something that represents your shared interests, in a style that you think would look good. Are there any specific colors or effects you would like?
+CUSTOMER: We're not sure. Whatever you think would look good.
+DALLE: Okay, so a scene of you all hanging out and something that represents your shared interests, in a style that you think would look good, with colors and effects that you think would look good. Would you like me to suggest some options?
+CUSTOMER: Yes, please.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a group of friends hanging out together. They are of different ethnicities and genders, and are all having fun. There is something in the painting that represents their shared interests. The style is something that Dalle thinks would look good, with colors and effects that she also thinks would look good.

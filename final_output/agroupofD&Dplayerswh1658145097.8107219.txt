@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a group art of our D&D characters.
+DALLE: Okay, can you tell me a little more about that? What races, classes, and genders are your characters?
+CUSTOMER: We have a human fighter, an elf ranger, a dwarf wizard, and a Halfling rogue.
+DALLE: Any specific color schemes you would like me to use?
+CUSTOMER: Our Halfling rogue is wearing all green, so maybe green for everyone?
+DALLE: Okay, what about the setting? Is this indoors or outdoors?
+CUSTOMER: It's outdoors, in a forest.
+DALLE: Would you like the focus to be on the characters or the environment?
+CUSTOMER: The characters.
+DALLE: Okay, and how do you want the characters to be feeling?
+CUSTOMER: Heroic and triumphant.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: In the center of the image, there is a group of four adventurers. They are standing in a heroic posture, triumphantly raising their weapons in the air. They are surrounded by a dense forest, with trees and vines reaching up around them. The characters are as follows: -A human fighter, wearing armor and wielding a sword and shield. He has short, brown hair and a grizzled beard. -An elf ranger, clad in leather armor and armed with a bow and arrows. She has long, silver hair and pointed ears. -A dwarf wizard, wearing a blue robe and holding a staff. He has a long, white beard and hair, and he wears a pointed hat. -A Halfling rogue, dressed in all green. He has short, brown hair and carries a dagger.

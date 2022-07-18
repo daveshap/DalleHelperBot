@@ -1,0 +1,21 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know that I want a painting of my favorite animal.
+DALLE: What is your favorite animal?
+CUSTOMER: It's a bird.
+DALLE: What kind of bird?
+CUSTOMER: A seagull.
+DALLE: What color is the seagull?
+CUSTOMER: White.
+DALLE: Is the seagull alone or with other birds?
+CUSTOMER: It's alone.
+DALLE: What is the seagull doing?
+CUSTOMER: Just flying.
+DALLE: Where is the seagull flying?
+CUSTOMER: Near the ocean.
+DALLE: Is the ocean in the background or the foreground?
+CUSTOMER: In the background.
+DALLE: Is the sky clear or cloudy?
+CUSTOMER: Cloudy.
+DALLE: What kind of feeling do you want the painting to have?
+CUSTOMER: I want it to feel calm and peaceful.
+DALLE: Is there anything else you'd like to include?

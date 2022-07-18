@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new website.
+DALLE: Okay, what kind of business are you in?
+CUSTOMER: I'm a consultant.
+DALLE: What kind of consulting?
+CUSTOMER: IT consulting.
+DALLE: What size is your customer base?
+CUSTOMER: Mostly small to medium businesses.
+DALLE: What look and feel are you going for with the website?
+CUSTOMER: I want it to look professional and modern.
+DALLE: Is there anything else you'd like to include?

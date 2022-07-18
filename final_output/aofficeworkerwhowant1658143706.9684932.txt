@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know. I need something for my cubicle at work.
+DALLE: What does your job entail?
+CUSTOMER: I work in an office. I'm a customer service representative.
+DALLE: What is the culture like at your office?
+CUSTOMER: It's pretty relaxed. We can wear whatever we want as long as it's professional.
+DALLE: What is your personality like?
+CUSTOMER: I'm pretty laid back. I like to have fun, but I also take my work seriously.
+DALLE: What kind of art would you like for your office?
+CUSTOMER: I don't know. Something that reflects my personality, I guess.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a modern painting with a blue and white color scheme. The painting is of a cityscape, with tall buildings and a river in the foreground. The painting is signed by the artist.

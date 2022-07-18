@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're looking for a new piece of art for our wedding.
+DALLE: Okay, what kind of art are you looking for?
+CUSTOMER: We're not really sure.
+DALLE: That's okay. Let's start with the couple. What's your story?
+CUSTOMER: We met in college and have been together for five years. We're getting married next month.
+DALLE: That's great! What do you want to remember about your wedding?
+CUSTOMER: We want to remember the feeling of happiness and love on our special day.
+DALLE: I can definitely capture that for you. What about the setting? Is there a specific location you want to remember?
+CUSTOMER: We're getting married in a park.
+DALLE: Okay, I can definitely work with that. Is there anything else you can tell me about what you're looking for?
+CUSTOMER: We're not really sure. We just want something beautiful that we can look at and feel happy when we remember our wedding day.
+DALLE: Is there anything else you'd like to include?

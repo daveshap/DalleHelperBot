@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a portrait of my family.
+DALLE: Okay, what kind of portrait do you want? Is it formal or informal? Who is in the portrait? What kind of setting do you want?
+CUSTOMER: I want a formal portrait of my whole family. My mom, dad, sister, and me. We want to be in our living room.
+DALLE: Okay, I can do that. What kind of lighting do you want? And what kind of background?
+CUSTOMER: I want the light to be coming in from the windows. And for the background, I want the fireplace to be in the picture.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The customer wants a formal portrait of their family in their living room. The light should be coming in from the windows, and the fireplace should be in the background.

@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. I need a new recipe.
+DALLE: What kind of ingredients do you have?
+CUSTOMER: Chicken, rice, and some vegetables.
+DALLE: What cooking method do you want to use?
+CUSTOMER: I was thinking of stir-frying.
+DALLE: What kind of flavors do you want?
+CUSTOMER: I'm not sure. Something different.
+DALLE: How about a Thai chicken stir-fry?
+CUSTOMER: That sounds good.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image shows a chicken stir-fry dish with rice and vegetables. The chicken is cut into small pieces and is stir-fried with the vegetables. The rice is cooked separately and is placed on the plate next to the chicken and vegetables. The dish is garnished with green onions and cilantro.

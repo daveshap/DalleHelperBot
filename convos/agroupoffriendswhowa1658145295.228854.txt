@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: We want a new painting for our apartment.
+DALLE: What do you and your friends like to do for fun?
+CUSTOMER: We like to go out and have fun. We're a pretty diverse group, so we like to do a lot of different things.
+DALLE: Would you like something that captures a moment in time or something more abstract?
+CUSTOMER: We're not sure. What do you suggest?
+DALLE: I could do a painting that captures a moment in time, such as you and your friends hanging out together. Or I could do something more abstract, like a painting that represents your shared interests.
+CUSTOMER: What do you think would be best?
+DALLE: I think a painting that captures a moment in time would be best. Anything else?

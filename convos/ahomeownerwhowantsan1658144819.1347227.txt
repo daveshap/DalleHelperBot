@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know, something for my living room I guess.
+DALLE: What's the room like?
+CUSTOMER: It's beige and has a lot of sunlight.
+DALLE: What kind of feeling do you want the piece to convey?
+CUSTOMER: I want it to be calming.
+DALLE: What colors do you like?
+CUSTOMER: I like blues and greens.
+DALLE: What's your favorite type of art?
+CUSTOMER: I really like photography.
+DALLE: Is there anything else you'd like to include?

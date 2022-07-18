@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know that I want something new for my cubicle at work.
+DALLE: Do you have any ideas about what you might want?
+CUSTOMER: Not really. I just want something that represents me and my job.
+DALLE: What kind of job do you have?
+CUSTOMER: I work in an office.
+DALLE: What kind of office is it?
+CUSTOMER: It's a pretty big company. They're pretty traditional, but they're also really modern in a lot of ways.
+DALLE: What is your role in the company?
+CUSTOMER: I'm a customer service representative.
+DALLE: So you talk to customers all day?
+CUSTOMER: Yeah, I help them with whatever they need.
+DALLE: Do you like your job?
+CUSTOMER: Yeah, I do. I like helping people and I like the people I work with.
+DALLE: That's great. So you're looking for something that represents you and your job. Maybe something that shows you're helpful and friendly?
+CUSTOMER: Yeah, that sounds good.
+DALLE: Is there anything else you'd like to include?

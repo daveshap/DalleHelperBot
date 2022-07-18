@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I want a portrait of my family, but I don't know what kind of portrait I want.
+DALLE: Well, let's start with your family. What are they like?
+CUSTOMER: They're Korean.
+DALLE: Okay, so do you want a traditional Korean portrait or something more modern?
+CUSTOMER: I'm not sure. What are my options?
+DALLE: We can do a traditional Korean painting or a digital portrait that looks like a photograph.
+CUSTOMER: What's the difference?
+DALLE: A traditional painting would be done by hand, while a digital portrait would be created using a computer program.
+CUSTOMER: I don't know. What do you think?
+DALLE: Why don't we try a traditional Korean painting first and see how you like it? If you're not happy with it, we can always try something else.

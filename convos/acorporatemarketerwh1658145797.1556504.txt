@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a new logo for my company.
+DALLE: Okay, what kind of company is it?
+CUSTOMER: We're a marketing company.
+DALLE: What kind of feel do you want for your logo?
+CUSTOMER: I want it to be modern and sleek.
+DALLE: What kind of colors do you want to use?
+CUSTOMER: I want to use our corporate colors, which are blue and green.
+DALLE: Do you want any other elements in the logo, such as an icon?
+CUSTOMER: I'm not sure. Maybe something that represents our company's name?
+DALLE: Is there anything else you'd like to include?

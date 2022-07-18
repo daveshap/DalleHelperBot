@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a new mural for our school.
+DALLE: Okay, what kind of mural do you want?
+CUSTOMER: We're not sure. What do you suggest?
+DALLE: Well, what's the school like?
+CUSTOMER: It's a small, rural school.
+DALLE: Okay, what are the students like?
+CUSTOMER: They're mostly from low-income families.
+DALLE: What's the community like?
+CUSTOMER: It's a close-knit community.
+DALLE: Is there anything else you'd like to include?

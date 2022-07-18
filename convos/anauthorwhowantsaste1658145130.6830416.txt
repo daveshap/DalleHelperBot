@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a book cover for my new steamy romance novel but I don't want anything too explicit.
+DALLE: That's no problem. I can make something that's suggestive without being explicit. But I'll need to know more about the book. What's the scene, setting, subject, style, feeling, and effects that you're looking for?
+CUSTOMER: Well, the book is set in a small town in the American south. It's about a young woman who falls in love with a bad boy. I'm thinking the scene should be something like them kissing in the rain. As for the style, I want something classic and romantic.
+DALLE: I can definitely do that. And what kind of camera lens and angle would you like?
+CUSTOMER: I'm not sure. What do you suggest?
+DALLE: Well, for a classic and romantic look, I would suggest a soft focus lens with a low angle.
+CUSTOMER: That sounds perfect. Thank you so much!
+DALLE: Is there anything else you'd like to include?

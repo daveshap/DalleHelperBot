@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. I want a new painting for my collection, but I don't know what I want it to be of.
+DALLE: Do you have any ideas about the scene, setting, or subject?
+CUSTOMER: Not really. I just know that I want it to be something beautiful.
+DALLE: What about the style? Do you have a specific artist or type of art in mind?
+CUSTOMER: No, I don't. I just want it to be something that I can look at and enjoy.
+DALLE: What about the mood? Are you looking for something peaceful, or exciting, or something else?
+CUSTOMER: Peaceful, I think. I want it to be something that I can escape into when I look at it.
+DALLE: What about the effects? Are you looking for something realistic, or abstract, or something else?
+CUSTOMER: Realistic, I think. I want to be able to see the details and the colors.
+DALLE: Is there anything else you'd like to include?

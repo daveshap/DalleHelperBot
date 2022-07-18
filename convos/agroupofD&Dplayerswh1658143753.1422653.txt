@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're looking for a group art of our D&D characters.
+DALLE: Okay, can you tell me a little about your characters and campaign?
+CUSTOMER: Well, our characters are all elves. We're fighting an evil dragon and we're in a dark forest.
+DALLE: Do you want your characters to be posed in a certain way?
+CUSTOMER: We're thinking maybe our characters fighting the dragon with arrows and swords.
+DALLE: Okay, I can definitely do that. Is there anything else you want to include in the picture?
+CUSTOMER: We're not sure. What do you suggest?
+DALLE: I can add in some trees and leaves to make it look like the forest. I can also add in some smoke and fire to make it look like the dragon is breathing fire.
+CUSTOMER: That sounds great. We'll go with that.
+DALLE: Is there anything else you'd like to include?

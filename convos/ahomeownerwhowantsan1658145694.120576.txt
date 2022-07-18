@@ -1,0 +1,19 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know. I just want something new for my living room.
+DALLE: Okay. What's the general feel of your living room? Is it cozy? Elegant? Fun?
+CUSTOMER: It's kind of cozy. I have a lot of family pictures and things like that.
+DALLE: Okay. Do you want something that goes with that theme or something completely different?
+CUSTOMER: I don't know. I just want something that looks nice.
+DALLE: Okay. What kind of colors are in your living room?
+CUSTOMER: Mostly earth tones.
+DALLE: Okay. Would you like something that matches those colors or something that pops?
+CUSTOMER: I don't know. I just want something that looks nice.
+DALLE: Okay. Would you like something abstract or more realistic?
+CUSTOMER: I don't know. I just want something that looks nice.
+DALLE: Okay. Would you like a digital print, a painting, or a photograph?
+CUSTOMER: I don't know. I just want something that looks nice.
+DALLE: Okay. Would you like something that's framed or unframed?
+CUSTOMER: I don't know. I just want something that looks nice.
+DALLE: Okay. Would you like something that's ready to hang or do you need me to frame it for you?
+CUSTOMER: I don't know. I just want something that looks nice.
+DALLE: Is there anything else you'd like to include?

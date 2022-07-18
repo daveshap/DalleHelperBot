@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a landscape for my new game.
+DALLE: What kind of landscape?
+CUSTOMER: I'm not sure. Something that looks like a cross between Skyrim and The Legend of Zelda: Breath of the Wild.
+DALLE: Okay, what kind of feel are you going for?
+CUSTOMER: I want it to be peaceful and scenic, but with a feeling of adventure.
+DALLE: Any particular color scheme you had in mind?
+CUSTOMER: I want it to be very bright and vibrant.
+DALLE: Any other specific requirements?
+CUSTOMER: I need it to be high resolution so it looks good on a 4K monitor.
+DALLE: I can only do one size right now.
+CUSTOMER: Oh okay
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: A high resolution image that is a cross between Skyrim and The Legend of Zelda: Breath of the Wild. The landscape is peaceful and scenic, but with a feeling of adventure. The color scheme is very bright and vibrant.

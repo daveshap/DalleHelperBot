@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. I need something for my website, but I don't know what I want.
+DALLE: Okay, well, what's the website for?
+CUSTOMER: It's a portfolio for my work as a software engineer.
+DALLE: Okay, so you'll want something that's pretty abstract then, to represent your work in a different way.
+CUSTOMER: Yeah, that sounds good.
+DALLE: Okay, well, let me show you some of the possibilities then. I have some examples of previous work, and we can talk about what you like and don't like.
+CUSTOMER: That sounds great.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: Dalle shows the customer a few examples of previous work, discussing what they like and don't like. The customer is looking for something abstract that will represent their work in a different way.

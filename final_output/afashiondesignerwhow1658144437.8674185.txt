@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I'm a fashion designer and I need a new pattern for a piece I'm working on.
+DALLE: Sure, I can do that. Can you tell me more about the piece? What kind of clothing is it?
+CUSTOMER: It's a dress.
+DALLE: What kind of fabric is it?
+CUSTOMER: It's a cotton blend.
+DALLE: What style are you going for?
+CUSTOMER: I'm not really sure. I was thinking maybe something geometric?
+DALLE: Okay, I can do that. What kind of colors are you thinking of using?
+CUSTOMER: I was thinking maybe a light blue and white?
+DALLE: Okay, I can do that. Is there anything else you can tell me about the piece?
+CUSTOMER: No, I think that's it.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a light blue and white geometric pattern.

@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a group art of our D&D characters.
+DALLE: Okay, can you tell me a little more about that? What races, classes, and genders are your characters?
+CUSTOMER: We have a human fighter, an elf ranger, a dwarf wizard, and a Halfling rogue.
+DALLE: Any specific color schemes you would like me to use?
+CUSTOMER: Our Halfling rogue is wearing all green, so maybe green for everyone?
+DALLE: Okay, what about the setting? Is this indoors or outdoors?
+CUSTOMER: It's outdoors, in a forest.
+DALLE: Would you like the focus to be on the characters or the environment?
+CUSTOMER: The characters.
+DALLE: Okay, and how do you want the characters to be feeling?
+CUSTOMER: Heroic and triumphant.
+DALLE: Is there anything else you'd like to include?

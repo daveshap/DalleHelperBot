@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I want a portrait of my family.
+DALLE: What does your family look like?
+CUSTOMER: We're all different heights and we have different color hair. My mom has blonde hair and my dad has brown hair. My sisters have red hair and black hair.
+DALLE: What kind of portrait do you want? Formal or casual?
+CUSTOMER: Casual.
+DALLE: Do you want everyone in the portrait to be looking at the camera or looking away?
+CUSTOMER: Looking away.
+DALLE: Do you want to be in the portrait?
+CUSTOMER: Yes.
+DALLE: Where do you want to take the portrait?
+CUSTOMER: In our living room.
+DALLE: Is there anything else you'd like to include?

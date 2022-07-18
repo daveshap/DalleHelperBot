@@ -1,0 +1,27 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a battle scene.
+DALLE: What kind of battle scene?
+CUSTOMER: A violent one.
+DALLE: I'm sorry, I can't do violence. Can you give me some more information?
+CUSTOMER: It needs to be a big scene, with a lot of people fighting.
+DALLE: What are they fighting with?
+CUSTOMER: Swords and shields.
+DALLE: What kind of swords and shields?
+CUSTOMER: I don't know. Whatever you think looks good.
+DALLE: Okay, I have some ideas. Can you tell me more about the setting?
+CUSTOMER: It needs to be in a castle.
+DALLE: What kind of castle?
+CUSTOMER: I don't know. Whatever you think looks good.
+DALLE: Okay, I have some ideas. Can you tell me more about the scene?
+CUSTOMER: There needs to be a lot of blood.
+DALLE: I'm sorry, I can't do violence. Can you give me some more information?
+CUSTOMER: It needs to be a big scene, with a lot of people fighting.
+DALLE: What are they fighting with?
+CUSTOMER: Swords and shields.
+DALLE: What kind of swords and shields?
+CUSTOMER: I don't know. Whatever you think looks good.
+DALLE: Okay, I have some ideas. Can you tell me more about the setting?
+CUSTOMER: It needs to be in a castle.
+DALLE: What kind of castle?
+CUSTOMER: I don't know. Whatever you think looks good.
+DALLE: Is there anything else you'd like to include?

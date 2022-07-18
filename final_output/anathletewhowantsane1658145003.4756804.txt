@@ -1,0 +1,18 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need some new sports equipment.
+DALLE: Ok, what sport do you play?
+CUSTOMER: Soccer.
+DALLE: Do you need cleats?
+CUSTOMER: Yes.
+DALLE: What size do you need?
+CUSTOMER: Size 10.
+DALLE: What kind of cleats do you need?
+CUSTOMER: I don't really know. Whatever is popular these days.
+DALLE: Adidas or Nike?
+CUSTOMER: Adidas.
+DALLE: What color do you want?
+CUSTOMER: Black.
+DALLE: Do you want anything else?
+CUSTOMER: No, that's it.
+CUSTOMER: ALL DONE
+DALLE: The image is of a pair of black Adidas cleats. They are size 10 and have the Adidas logo on the tongue. The laces are black and the cleats are made of black leather. There is a white stripe running down the side of each cleat.

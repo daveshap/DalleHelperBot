@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a new campaign photo.
+DALLE: What kind of campaign is it?
+CUSTOMER: I'm running for office.
+DALLE: What office?
+CUSTOMER: Congress.
+DALLE: Who is your target audience?
+CUSTOMER: Constituents in my district.
+DALLE: What kind of message do you want to communicate?
+CUSTOMER: That I'm somebody who cares about the district and will work hard for them.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image should be of the customer shaking hands with constituents. They should be smiling and looking like they're enjoying the conversation. The background should be of the district they're running in.

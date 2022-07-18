@@ -1,0 +1,21 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I want a painting of my favorite animal, but I'm not sure what kind of scene or setting I want.
+DALLE: Okay, well let's start with the animal then. What is your favorite animal?
+CUSTOMER: I really like tigers.
+DALLE: Great! Now, what kind of scene would you like? Would you like the tiger in a natural setting like the jungle, or would you prefer a more stylized setting?
+CUSTOMER: I'm not really sure. What do you think?
+DALLE: Well, I think a natural setting would be really beautiful. But it's up to you.
+CUSTOMER: Okay, let's go with the natural setting then.
+DALLE: Great! Now, do you want the tiger to be the only subject of the painting, or would you like there to be other things in the background?
+CUSTOMER: I think I would like there to be other things in the background.
+DALLE: Okay, what kind of things would you like?
+CUSTOMER: I'm not really sure. What do you think?
+DALLE: Well, perhaps some trees and other animals?
+CUSTOMER: That sounds nice.
+DALLE: Great! Now, what kind of feeling do you want the painting to have? Do you want it to be peaceful, or exciting, or something else entirely?
+CUSTOMER: I want it to be peaceful.
+DALLE: Okay, and what kind of effects do you want? Would you like the colors to be very bright, or more subdued?
+CUSTOMER: I think I would like the colors to be more subdued.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The requested image is of a tiger in a natural setting, with other animals in the background. The tiger is the only subject of the painting, and the feeling of the painting is peaceful. The colors are more subdued.

@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're looking for a new piece of art for our wedding.
+DALLE: Okay, what kind of art are you thinking?
+CUSTOMER: We're not really sure. We want something that captures our memories of the day.
+DALLE: Do you have any specific ideas or themes in mind?
+CUSTOMER: Not really. We just want something beautiful that we can look at and remember our wedding day.
+DALLE: Okay, I understand. Can you tell me a little bit about the wedding?
+CUSTOMER: It was a small, intimate affair. We just wanted our closest family and friends there.
+DALLE: What was your favorite part of the day?
+CUSTOMER: Just being married and seeing all our loved ones there with us.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a small, intimate wedding ceremony. The bride and groom are standing at the altar, surrounded by their closest family and friends. They are all smiling and happy. The bride and groom are holding hands and looking at each other lovingly.

@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a new mural for our school.
+DALLE: Okay, what kind of mural do you want?
+CUSTOMER: We're not sure. What do you suggest?
+DALLE: Well, what is the school like?
+CUSTOMER: It's a small public school in a low-income area.
+DALLE: Okay, what kind of mural would you like for your school?
+CUSTOMER: We want something that will inspire the students.
+DALLE: Okay, what kind of scenes, settings, or subjects would you like in the mural?
+CUSTOMER: We want something that shows the students that they can succeed in spite of their circumstances.
+DALLE: Okay, what kind of style do you want?
+CUSTOMER: We want something that is realistic but also has some elements of abstraction.
+DALLE: Okay, what kind of feeling do you want the mural to convey?
+CUSTOMER: We want the mural to be hopeful and uplifting.
+DALLE: Okay, what kind of effects do you want?
+CUSTOMER: We want the mural to be visually striking and to make a statement.
+DALLE: Is there anything else you'd like to include?

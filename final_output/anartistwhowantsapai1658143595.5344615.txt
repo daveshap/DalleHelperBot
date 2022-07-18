@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. I need a painting of my favorite animal.
+DALLE: What is your favorite animal?
+CUSTOMER: A lion.
+DALLE: Why a lion?
+CUSTOMER: They're just so majestic and powerful. I've always been fascinated by them.
+DALLE: That sounds like a great idea! What kind of scene do you envision?
+CUSTOMER: I'm not sure. Maybe something with a lot of grass and trees.
+DALLE: That sounds like a great idea! What kind of style are you looking for?
+CUSTOMER: I don't know. Something realistic, I guess.
+DALLE: That sounds like a great idea! What kind of feeling do you want the painting to evoke?
+CUSTOMER: I'm not sure. Maybe something peaceful and calming.
+DALLE: That sounds like a great idea! What kind of effects do you want?
+CUSTOMER: I don't know. Maybe some light shining through the trees?
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The painting shows a lion in a grassy field, with trees in the background. The lion is lying down, with its head resting on its paws. The sun is shining through the trees, and the light is shining on the lion's fur.

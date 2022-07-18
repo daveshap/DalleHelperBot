@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a new opening title sequence for my TV show.
+DALLE: Okay, what's the show about?
+CUSTOMER: It's a comedy about a group of friends in their 20s.
+DALLE: Who are the main characters?
+CUSTOMER: There are four friends, two guys and two girls.
+DALLE: What kind of feeling do you want to convey with the title sequence?
+CUSTOMER: We want it to be funny and upbeat.
+DALLE: Do you have any specific ideas?
+CUSTOMER: Not really. I'm open to suggestions.
+DALLE: Okay, well, one option could be to have the title appear in different places as the characters are moving around. Or we could have the characters interact with the title in some way.
+CUSTOMER: That sounds good. I like the idea of the characters interacting with the title.
+DALLE: Okay, we can definitely do that. Do you have any other ideas?
+CUSTOMER: No, I think that's it for now.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The TV show's title appears in different places as the characters move around. The characters interact with the title in some way, making it appear and disappear.

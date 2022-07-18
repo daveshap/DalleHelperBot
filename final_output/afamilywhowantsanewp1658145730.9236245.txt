@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a new family portrait.
+DALLE: Great! How many people are in your family?
+CUSTOMER: There are four of us.
+DALLE: And what are their ages and genders?
+CUSTOMER: My wife is in her 30s, I'm in my 40s, and we have two young daughters.
+DALLE: Got it. What kind of setting do you want for the portrait?
+CUSTOMER: We were thinking outdoors, maybe in a park or something.
+DALLE: That sounds nice. Is there anything specific you have in mind?
+CUSTOMER: We don't really know. We just want something different from the usual posed portrait.
+DALLE: I see. Do you have any ideas about what kind of feeling or mood you want the portrait to have?
+CUSTOMER: We want it to be natural and relaxed, but still look good.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The family is sitting or standing in a park. They are all smiling and looking at the camera. The background is of trees and grass.

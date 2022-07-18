@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know I want something new for my sports equipment.
+DALLE: What sport do you play?
+CUSTOMER: Soccer.
+DALLE: Do you have any particular player or style in mind?
+CUSTOMER: No, not really. I just want something that looks good and performs well.
+DALLE: Okay, well let me ask you some questions about the scene and setting. What kind of environment do you want?
+CUSTOMER: I don't really know. Somewhere outdoors I guess.
+DALLE: Okay, what kind of lighting do you want?
+CUSTOMER: I don't know. Whatever looks good.
+DALLE: All right, well let me ask you about the subject. What do you want to be featured in the image?
+CUSTOMER: I want to be the focus, and my soccer equipment.
+DALLE:Okay, and what kind of feeling do you want the image to evoke?
+CUSTOMER: I want it to look powerful and strong.
+DALLE: Do you want any particular effects?
+CUSTOMER: No, not really. Just whatever looks good.
+DALLE: Is there anything else you'd like to include?

@@ -1,0 +1,7 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know that I want something new for my living room.
+DALLE: Okay, can you tell me more about your living room? What are the colors?
+CUSTOMER: It's mostly white with some brown furniture.
+DALLE: And what kind of feeling do you want from the piece?
+CUSTOMER: I want it to be calm and relaxing.
+DALLE: Is there anything else you'd like to include?

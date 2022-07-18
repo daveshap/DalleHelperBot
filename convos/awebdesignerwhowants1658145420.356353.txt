@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a custom background for my website.
+DALLE: Okay, what kind of website is it?
+CUSTOMER: It's a personal website.
+DALLE: What colors are predominant on the website?
+CUSTOMER: Blue and white.
+DALLE: What feeling are you going for with the website?
+CUSTOMER: I want it to look professional and modern.
+DALLE: What kind of images do you want on the background?
+CUSTOMER: I'm not sure. Maybe something abstract?
+DALLE: Okay, I can do an abstract painting for you.
+CUSTOMER: Cool
+DALLE: Is there anything else you'd like to include?

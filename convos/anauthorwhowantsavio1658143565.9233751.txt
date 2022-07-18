@@ -1,0 +1,18 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a violent battle scene, with blood and weapons and everything.
+DALLE: I'm sorry, but I can't do violence. Is there something else you had in mind?
+CUSTOMER: Well, I want it to be very realistic and intense.
+DALLE: I can do that. What kind of setting are you thinking of?
+CUSTOMER: I'm not sure. Somewhere in the middle of a war, I guess.
+DALLE: Okay. What kind of angles do you want? Top down? Side view?
+CUSTOMER: I'm not sure. What do you suggest?
+DALLE: Well, for a realistic and intense battle scene, I would suggest a side view. That way we can see all the action and the carnage.
+CUSTOMER: That sounds good.
+DALLE: Great. What kind of effects do you want? Smoke, fire, explosions?
+CUSTOMER: Yes, all of that.
+DALLE: Okay. What kind of camera lenses do you want? Wide angle? Telephoto?
+CUSTOMER: I'm not sure. What do you suggest?
+DALLE: For a battle scene, I would suggest a wide angle lens. That way we can see a lot of the action and the surroundings.
+CUSTOMER: That sounds good.
+DALLE: Great. So a realistic and intense battle scene, with smoke, fire, and explosions, from a wide angle perspective. Is that everything?
+CUSTOMER: Yes, that's everything. Thanks.

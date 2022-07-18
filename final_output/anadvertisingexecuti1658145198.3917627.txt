@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know, I need a new ad campaign and I'm not sure what kind of direction to go in.
+DALLE: Okay, well, what's the product?
+CUSTOMER: We're launching a new line of skincare products.
+DALLE: And who is the target market?
+CUSTOMER: Women in their 20s and 30s.
+DALLE: And what message do you want to communicate?
+CUSTOMER: We want to position our product as the more natural and gentle option.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a young woman's face. She has clean, clear skin, and she looks happy and healthy. There is a light green background, and the text above her reads, "The more natural and gentle option."

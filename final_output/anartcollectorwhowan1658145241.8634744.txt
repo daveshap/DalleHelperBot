@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I want a new painting for my collection, but I don't know what kind of painting I want.
+DALLE: Do you have any preference on the artist, style, or mood of the painting?
+CUSTOMER: Not really. I just want something new and different.
+DALLE: Okay, let me see if I can find some artists that match your description. (Browsing through an online gallery) Here are some artists that I think you might like. This one has a very unique style, and this other one's paintings are known for their bright and cheerful mood.
+CUSTOMER: Hmm, those both sound interesting. I think I'll go with the one with the unique style.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The painting the customer chooses is by an artist with a unique style. It is a new painting, and is different from anything in the customer's collection.

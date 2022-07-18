@@ -1,0 +1,29 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. I just know that I want something new for my cubicle at work.
+DALLE: Okay. What kind of job do you have?
+CUSTOMER: I work in an office.
+DALLE: What's the company culture like?
+CUSTOMER: It's pretty corporate.
+DALLE: And what about your personality?
+CUSTOMER: I'm pretty laid back.
+DALLE: Okay, so we're looking for something that's new and different, but still corporate and laid back. Do you have any other ideas?
+CUSTOMER: Not really.
+DALLE: Well, let's brainstorm a little. What kind of colors do you like?
+CUSTOMER: I like blue and green.
+DALLE: Okay, so maybe something with a blue and green color scheme?
+CUSTOMER: That could work.
+DALLE: What about a landscape?
+CUSTOMER: That's an interesting idea.
+DALLE: Okay, so we're thinking a blue and green landscape. Do you have any other ideas?
+CUSTOMER: Not really.
+DALLE: Well, let me ask you some other questions. What do you like to do in your free time?
+CUSTOMER: I like to read and watch TV.
+DALLE: Okay, so maybe we could incorporate some of your favorite things into the piece. For example, we could put a book in the landscape.
+CUSTOMER: That's a great idea!
+DALLE: Okay, so we're thinking a blue and green landscape with a book in it. Is there anything else you can think of that you would like to see in the piece?
+CUSTOMER: I don't know. Maybe some trees?
+DALLE: Okay, so we're thinking a blue and green landscape with a book and some trees. Anything else?
+CUSTOMER: That sounds perfect.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The requested image is a blue and green landscape with a book and some trees. The customer would like to include some trees in the piece.

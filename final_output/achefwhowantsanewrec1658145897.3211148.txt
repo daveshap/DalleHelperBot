@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. I need a new recipe.
+DALLE: What kind of recipe are you looking for?
+CUSTOMER: I don't know. Something with chicken.
+DALLE: What kind of flavors are you looking for?
+CUSTOMER: Something spicy.
+DALLE: Are you looking for a specific cooking method?
+CUSTOMER: No, I'm open to anything.
+DALLE: What kind of ingredients do you have?
+CUSTOMER: chicken, rice, beans, salsa, cheese, and spices.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a plate of food with a chicken breast, rice, black beans, and salsa on it. There is also cheese and spices on top of the chicken.

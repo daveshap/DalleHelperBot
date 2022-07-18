@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a custom background for my website.
+DALLE: What is the website about?
+CUSTOMER: It's a web design portfolio.
+DALLE: What colors are on the website?
+CUSTOMER: Blue and white.
+DALLE: What kind of feeling are you going for with the website?
+CUSTOMER: I want it to look professional and modern.
+DALLE: Do you have any ideas for the background?
+CUSTOMER: Not really. I just need something that looks good and is simple.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a light blue gradient background with a white line running down the center. The left side of the image is darker than the right side.

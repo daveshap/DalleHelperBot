@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're not really sure. We're looking for something special for our wedding.
+DALLE: Okay, let me ask you some questions. What is the theme of your wedding?
+CUSTOMER: We want something classic and romantic.
+DALLE: What kind of setting are you looking for?
+CUSTOMER: We're not sure. Maybe something outdoors with a lot of greenery?
+DALLE: What is the overall feeling you want to capture in the piece?
+CUSTOMER: We want something that captures the love and happiness we feel on our wedding day.
+DALLE: Is there anything else you'd like to include?

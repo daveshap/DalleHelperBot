@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I want something with nature, but from a different perspective.
+DALLE: Do you want it to be close up or further away?
+CUSTOMER: I'm not sure. What do you think?
+DALLE: Well, let me show you some options. I have a few different camera lenses and angles that we could use.
+CUSTOMER: That sounds great. Can you show me what you have?
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image requested is of a nature scene, but from a different perspective. The perspective could be close up or further away, depending on what the customer chooses. The image could also include different camera angles and lenses.

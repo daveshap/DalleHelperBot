@@ -1,0 +1,16 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. I need something new and exciting.
+DALLE: What kind of thing are you looking for?
+CUSTOMER: A recipe.
+DALLE: What ingredients do you have?
+CUSTOMER: Flour, sugar, eggs, butter, milk.
+DALLE: What flavors do you want?
+CUSTOMER: Sweet, savory, spicy.
+DALLE: What cooking method do you want to use?
+CUSTOMER: Baking.
+DALLE: What kind of dish are you looking for?
+CUSTOMER: Something creative.
+DALLE: I can make a cake, cookies, or a pie.
+CUSTOMER: Cake.
+DALLE: What kind of cake?
+CUSTOMER: Chocolate cake.

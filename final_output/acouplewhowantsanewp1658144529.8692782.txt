@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're not really sure. We just got engaged and we're looking for something special for our wedding.
+DALLE: Okay, well let's start with the basics then. What's your budget?
+CUSTOMER: We're not really sure. We just want something unique and special that we'll cherish forever.
+DALLE: Okay, well that's a good start. What kind of style are you looking for? Something traditional? Modern? Abstract?
+CUSTOMER: We're not really sure. We just want something that captures our love for each other.
+DALLE: Well, that's a great place to start. What are some of your favorite memories together?
+CUSTOMER: We love spending time outdoors, hiking and exploring. We also love traveling and experiencing new cultures.
+DALLE: That sounds like a great foundation for a piece of art. Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a young couple in their early twenties. They are standing next to each other, holding hands and gazing into each other's eyes. They are both smiling and look very much in love. Behind them is a beautiful landscape of mountains and forests. The sky is a deep blue and the sun is shining.

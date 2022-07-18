@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a book cover.
+DALLE: What kind of book is it?
+CUSTOMER: Romance
+DALLE: What's the scene?
+CUSTOMER: A man and a woman in a passionate embrace.
+DALLE: What's the setting?
+CUSTOMER: A tropical beach at sunset.
+DALLE: What's the feeling?
+CUSTOMER: Steamy and passionate.
+DALLE: Any particular effects you want?
+CUSTOMER: I'm not sure. Something that makes it look like they're about to have sex would be good.
+DALLE: I can't do anything too explicit, but I can try to suggest something that implies it.
+CUSTOMER: That would be great. Thank you.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: A man and woman are embraced in a passionate embrace on a tropical beach at sunset. There is a suggestiveness to the image that implies they are about to have sex.

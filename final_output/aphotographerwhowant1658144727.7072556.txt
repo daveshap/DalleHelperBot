@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a nature scene, but from a different perspective.
+DALLE: What kind of camera are you using?
+CUSTOMER: I have a DSLR.
+DALLE: What lens are you using?
+CUSTOMER: I have a 18-55mm lens.
+DALLE: What angle do you want the photo from?
+CUSTOMER: I want it from a high angle.
+DALLE: Is there anything in particular you want in focus?
+CUSTOMER: I want the flowers in focus.
+DALLE: Do you want zoomed in or out?
+CUSTOMER: I want it zoomed in.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image should be of a nature scene, taken from a high angle with a 18-55mm lens. The focus should be on the flowers in the scene. The image should be zoomed in.

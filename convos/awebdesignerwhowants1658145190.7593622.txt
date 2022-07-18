@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a custom background for my website.
+DALLE: Okay, what colors do you want?
+CUSTOMER: Blue and white.
+DALLE: What style are you looking for?
+CUSTOMER: I want something soothing and calming.
+DALLE: What kind of feeling do you want the background to convey?
+CUSTOMER: I want it to look professional and clean.
+DALLE: I understand. Are there any other specific effects or elements you would like?
+CUSTOMER: I don't know. Surprise me.
+DALLE: Is there anything else you'd like to include?

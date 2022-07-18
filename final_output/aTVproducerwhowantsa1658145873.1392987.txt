@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need an opening title sequence for my new TV show.
+DALLE: Okay, tell me about your show.
+CUSTOMER: It's a drama about a family in the mafia.
+DALLE: What kind of feeling do you want to convey with the title sequence?
+CUSTOMER: I want it to be really dark and suspenseful.
+DALLE: What kind of characters are in your show?
+CUSTOMER: There's the patriarch, who's a ruthless crime boss, his wife, who'sb cold and calculating, their children, who are all trying to survive in this world, and there are a lot of other characters that come and go.
+DALLE: Do you want any particular images in the title sequence?
+CUSTOMER: I want there to be a lot of shadows and darkness, and I want there to be a sense of danger.
+DALLE: Is there anything else you can tell me about what you want?
+CUSTOMER: That's all I can think of for now.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The title sequence should be dark and suspenseful, with a sense of danger. It should include shadows and darkness, and may also include images of the patriarch, wife, and children.

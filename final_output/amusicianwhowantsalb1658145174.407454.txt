@@ -1,0 +1,20 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need some album art for my band.
+DALLE: Okay, what is your band's name?
+CUSTOMER: We're called The Last Resort.
+DALLE: What kind of music do you play?
+CUSTOMER: We're a punk rock band.
+DALLE: What is the album title?
+CUSTOMER: It's called "The End is Near."
+DALLE: What is the album about?
+CUSTOMER: It's about the world coming to an end.
+DALLE: Do you have any specific ideas for the album art?
+CUSTOMER: I want it to be really dark and apocalyptic.
+DALLE: Okay, I can work with that. Are you looking for something specific, like a certain scene or object?
+CUSTOMER: Yeah, I want it to be a cityscape with the skyline in flames.
+DALLE: Okay, I can do that. Is there anything else you want me to include?
+CUSTOMER: I want there to be a figure in the foreground, maybe a silhouette of a person looking up at the sky.
+DALLE: Okay, I can do that. anything else?
+CUSTOMER: Nope, that's it.
+CUSTOMER: ALL DONE
+DALLE: The image is a cityscape with the skyline in flames. A figure is in the foreground, looking up at the sky.

@@ -1,0 +1,7 @@
+DALLE: What can I make for you today?
+CUSTOMER: A book cover.
+DALLE: What kind of book?
+CUSTOMER: A steamy romance.
+DALLE: I'm sorry, but I can't do sexual images.
+CUSTOMER: Okay, can you make it look like they're about to kiss then?
+DALLE: Sure.

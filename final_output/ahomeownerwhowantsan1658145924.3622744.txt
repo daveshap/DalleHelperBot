@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know that I want something new for my living room.
+DALLE: Okay, let's start there. What's the overall aesthetic of your living room?
+CUSTOMER: It's very traditional. Lots of dark wood and Burgundy.
+DALLE: Got it. And what are you looking for in a new piece of art?
+CUSTOMER: Something that will really stand out, but still fit in with the overall look of the room.
+DALLE: Any particular colors or subjects you're thinking of?
+CUSTOMER: I really like blue, so maybe something with a lot of blue in it? And I love nature, so maybe something with a nature scene?
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is a painting of a traditional nature scene with a blue sky and a lot of blue in the water. The painting is on a dark wood frame and is hung in a traditional living room with a Burgundy color scheme.

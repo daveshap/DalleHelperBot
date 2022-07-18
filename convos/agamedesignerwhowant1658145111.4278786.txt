@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a landscape for a video game I'm working on, but I don't know what kind of style I want or what kind of location would be best.
+DALLE: Okay, well let's start with the basics then. What's the scene about?
+CUSTOMER: It's a post-apocalyptic world where the only survivors are fighting each other for resources.
+DALLE: Okay, so you're looking for something that looks ruined and despondent?
+CUSTOMER: Yeah, I want it to look like there's no hope left.
+DALLE: Got it. And what kind of mood do you want to convey?
+CUSTOMER: I want it to be intimidating and foreboding.
+DALLE: Okay, so dark and creepy then. Got it. And what about the style? Are you looking for something realistic or more abstract?
+CUSTOMER: I'm not sure. What are my options?
+DALLE: Well, we could go for a realistic style, or we could go for something more stylized. Or we could even do a mixture of both.
+CUSTOMER: I don't know. What do you think would work best?
+DALLE: Is there anything else you'd like to include?

@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a book cover.
+DALLE: What kind of book is it?
+CUSTOMER: A romance novel.
+DALLE: What is the scene?
+CUSTOMER: It's set in a garden.
+DALLE: What is the subject?
+CUSTOMER: A man and a woman.
+DALLE: What is the feeling?
+CUSTOMER: I want it to be steamy.
+DALLE: I'm sorry, I can't do sexual images.
+CUSTOMER: Okay, how about they're standing close together, looking deep into each other's eyes?
+DALLE: That sounds great. What kind of camera lens and angle would you like?
+CUSTOMER: ALL DONE
+DALLE: The man and woman in the image are standing close together in a garden, looking deep into each other's eyes. They are both attractive, and the woman is looking at the man with an expression of longing. The background is out of focus, and the image is taken from a low angle, making the couple appear larger than life.

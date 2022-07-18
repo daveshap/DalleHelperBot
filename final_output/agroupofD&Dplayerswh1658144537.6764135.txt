@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're a group of D&D players and we want a piece of art for our campaign.
+DALLE: Okay, what kind of scene, setting, subject, style, feeling, or effects do you want?
+CUSTOMER: We want our characters in the scene, and we want it to look like we're in a dungeon. We want the style to be dark and foreboding, and the feeling to be one of suspense.
+DALLE: Would you like me to add any special effects?
+CUSTOMER: Yes, we would like some glow-in-the-dark paint on our characters so they stand out in the dark.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: In the requested image, a group of D&D players are depicted in a dark and foreboding dungeon. The characters are painted with glow-in-the-dark paint, making them stand out in the dark. The scene is one of suspense and the feeling is one of impending danger.

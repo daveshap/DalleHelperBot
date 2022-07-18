@@ -1,0 +1,14 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new ad campaign for my company.
+DALLE: What’s the product?
+CUSTOMER: We sell a new kind of car.
+DALLE: Who’s the target market?
+CUSTOMER: Families.
+DALLE: What message do you want to communicate?
+CUSTOMER: That our car is the safest and most reliable on the market.
+DALLE: Do you have any ideas about the scene, setting, or subject matter?
+CUSTOMER: I’m not sure.
+DALLE: Do you have any preference for the style of the ad?
+CUSTOMER: I want it to be eye-catching and memorable.
+DALLE: Would you like me to provide some options?
+CUSTOMER: Yes, please.

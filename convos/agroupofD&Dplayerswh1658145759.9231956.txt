@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're not really sure. We're a group of D&D players and we want a piece of group art.
+DALLE: Okay, I can definitely do that. Can you tell me a little more about your characters? What races and genders are they?
+CUSTOMER: We have a human woman, a dwarf man, an elf man, and a halfling woman.
+DALLE: That sounds great. Can you tell me what kind of campaign you're in? Is it a high fantasy setting or more of a gritty realism game?
+CUSTOMER: It's a high fantasy setting.
+DALLE: Okay, so you'll probably want something with a lot of color then. Do you have any particular scene or subject in mind?
+CUSTOMER: We're thinking something like our characters standing triumphantly over a pile of dead dragons.
+DALLE: That sounds awesome. Can you tell me what kind of feeling you want the piece to have?
+CUSTOMER: We want it to be really epic and heroic, like our characters are the only ones who could have defeated the dragons.
+DALLE: I can definitely do that. Can you tell me what kind of effects you want? For example, do you want the dragons to be on fire?
+CUSTOMER: That would be really cool.
+DALLE: Is there anything else you'd like to include?

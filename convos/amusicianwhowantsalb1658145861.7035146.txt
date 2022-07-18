@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need album art for my new album.
+DALLE: Okay, what's the album about?
+CUSTOMER: It's about my band's journey through the music industry.
+DALLE: What kind of music is it?
+CUSTOMER: It's a mix of rock and roll and blues.
+DALLE: Okay, so I'm thinking we could do something with the band's logo, or maybe a picture of the band performing onstage. What do you think?
+CUSTOMER: I'm not sure. I want something that really captures the feeling of the album.
+DALLE: Okay, well, why don't we brainstorm some ideas and then you can decide what you like best?
+CUSTOMER: That sounds great.
+DALLE: Is there anything else you'd like to include?

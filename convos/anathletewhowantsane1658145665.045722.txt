@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'd like a new piece of sports equipment.
+DALLE: Ok, what sport is it for?
+CUSTOMER: Football.
+DALLE: Who is it for?
+CUSTOMER: A running back.
+DALLE: What kind of performance are you looking for?
+CUSTOMER: I want him to be able to run faster and make sharper turns.
+DALLE: Is there anything else you'd like to include?

@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't really know. I just know that I want something new for my cubicle at work.
+DALLE: Okay, well let's start with what kind of job do you have?
+CUSTOMER: I work in an office.
+DALLE: What kind of company is it?
+CUSTOMER: It's a pretty big company.
+DALLE: Is the culture casual or formal?
+CUSTOMER: It's pretty casual.
+DALLE: Do you have any hobbies or interests that you would like to incorporate into the piece?
+CUSTOMER: I like nature and hiking.
+DALLE: Okay, so maybe we could do something with a nature theme then. What kind of feeling do you want the piece to have?
+CUSTOMER: I want it to be peaceful and calming.
+DALLE: Okay, so we'll definitely want to stay away from anything too bright or busy then. Are there any specific colors or elements that you would like to include?
+CUSTOMER: I like blue and green.
+DALLE: Okay, that's great. Is there anything else you can think of that you would like to include?
+CUSTOMER: I don't think so.
+DALLE: Is there anything else you'd like to include?

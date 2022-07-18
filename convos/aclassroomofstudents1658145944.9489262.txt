@@ -1,0 +1,18 @@
+DALLE: What can I make for you today?
+CUSTOMER: We'd like a new mural for our school.
+DALLE: What kind of mural?
+CUSTOMER: We're not really sure. What do you suggest?
+DALLE: Well, what kind of school is it?
+CUSTOMER: It's a elementary school.
+DALLE: What age students?
+CUSTOMER: 5 to 12.
+DALLE: What's the community like?
+CUSTOMER: It's a small town.
+DALLE: What's important to the students?
+CUSTOMER: We want something that will make them feel proud of their school.
+DALLE: What kind of feeling do you want the mural to have?
+CUSTOMER: We want it to be uplifting and inspiring.
+DALLE: What kind of colors do you want?
+CUSTOMER: We want something that will stand out.
+DALLE: Would you like me to come up with some ideas for you?
+CUSTOMER: Yes, please.

@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're not really sure. We're a group of D&D players and we want a group art.
+DALLE: Okay, I can definitely do that. Can you tell me a little bit more about your characters? Races, genders, and what campaign you're playing would be helpful.
+CUSTOMER: We have a human fighter, an elf ranger, a dwarf cleric, and a Halfling rogue. We're playing in a campaign with a lot of political intrigue.
+DALLE: Got it. So you want a scene with all of your characters in it?
+CUSTOMER: Yes, that would be great.
+DALLE: Do you have any specific ideas about what you want the scene to look like?
+CUSTOMER: Not really. Maybe something with a lot of mountains in the background?
+DALLE: I can definitely do that. Is there anything else you can tell me about what you want?
+CUSTOMER: We want it to look like we're getting ready for a big battle.
+DALLE: Is there anything else you'd like to include?

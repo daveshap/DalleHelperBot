@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need album art for my new band.
+DALLE: What kind of band are you in?
+CUSTOMER: We're a rock band.
+DALLE: What is your music like?
+CUSTOMER: It's really high energy. Lots of guitars and drums.
+DALLE: Do you have any ideas for the album art?
+CUSTOMER: I want it to be really edgy and cool.
+DALLE: Do you have any specific ideas?
+CUSTOMER: I want it to be black and white. And I want there to be a guitar in it.
+DALLE: OK, I can work with that. Are you looking for anything else?
+CUSTOMER: I'm not sure. I'll know it when I see it.
+DALLE: Is there anything else you'd like to include?

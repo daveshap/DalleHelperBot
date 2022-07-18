@@ -1,0 +1,14 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I want a painting of my favorite animal, but I'm not sure what kind of scene to put it in.
+DALLE: Do you want it to be in a natural setting or more of a fantasy scene?
+CUSTOMER: I'm not sure. What are my options?
+DALLE: Well, we could do a natural setting with the animal in its habitat or we could do a more fantasy scene with the animal in a made up environment.
+CUSTOMER: I think I want a natural setting.
+DALLE: Okay, so we'll do a painting of your favorite animal in its natural habitat. Where does it live?
+CUSTOMER: Africa.
+DALLE: Okay, so we'll do a painting of your favorite animal in an African setting. Is there anything specific you want included in the painting?
+CUSTOMER: I'm not sure. I want it to be a surprise.
+DALLE: Okay, well I'll try to include some of the things you love about the animal in the painting. Anything else you can think of that you want me to include?
+CUSTOMER: I don't think so.
+CUSTOMER: ALL DONE
+DALLE: The painting will be of the customer's favorite animal in an African setting. The scene will include the animal in its natural habitat, with some of the things the customer loves about the animal included in the painting.

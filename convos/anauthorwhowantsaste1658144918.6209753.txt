@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a steamy book cover for my new novel.
+DALLE: I can't do sexual images, so we'll have to come up with something else. What's the novel about?
+CUSTOMER: It's a romance novel set in a small town.
+DALLE: What kind of feel do you want for the cover?
+CUSTOMER: Something romantic and dreamy.
+DALLE: What kind of effects do you want?
+CUSTOMER: I don't know. Something that makes it look like a bestseller?
+DALLE: Is there anything else you'd like to include?

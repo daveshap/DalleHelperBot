@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need some album art for my new album.
+DALLE: Alright, what's the album called?
+CUSTOMER: "The Long Road Ahead."
+DALLE: What's the genre of the album?
+CUSTOMER: Folk rock.
+DALLE: What kind of feeling are you going for with the album art?
+CUSTOMER: I want it to be evocative of the journey of the album.
+DALLE: Any specific ideas?
+CUSTOMER: Not really. I trust your artistic vision.
+DALLE: Is there anything else you'd like to include?

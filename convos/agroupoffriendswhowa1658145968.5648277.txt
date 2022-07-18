@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're not really sure. We just know we want something new for our apartment.
+DALLE: Okay, let's start with the basics then. What kind of scene are you thinking of?
+CUSTOMER: We were thinking something with all of us in it.
+DALLE: Okay, what are you doing in the scene?
+CUSTOMER: Just hanging out, maybe playing some games or watching TV.
+DALLE: What kind of mood are you looking for?
+CUSTOMER: We want it to be fun and happy.
+DALLE: Do you have any specific colors in mind?
+CUSTOMER: We're open to anything.
+DALLE: How about a sunset or nighttime setting?
+CUSTOMER: That could be cool.
+DALLE: Would you like any specific effects in the painting?
+CUSTOMER: We're not sure. What do you suggest?
+DALLE: I could add some light effects or make the colors more vibrant.
+CUSTOMER: That sounds good.
+DALLE: Is there anything else you'd like to include?

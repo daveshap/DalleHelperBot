@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a new family portrait.
+DALLE: Okay, let's start with the basics. How many people are in your family?
+CUSTOMER: There are six of us.
+DALLE: And how old are the children?
+CUSTOMER: They're all under the age of 10.
+DALLE: Do you have any pets?
+CUSTOMER: We have a dog and a cat.
+DALLE: What is the color of your dog's fur?
+CUSTOMER: He's a golden retriever, so his fur is golden.
+DALLE: And what is your cat's name?
+CUSTOMER: Her name is Lily.
+DALLE: Is there anything else you can tell me about your family that might be relevant?
+CUSTOMER: We're all of different ethnicities.
+DALLE: Is there anything else you'd like to include?

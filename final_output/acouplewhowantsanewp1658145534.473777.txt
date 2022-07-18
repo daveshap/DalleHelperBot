@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're looking for a new piece of art for our wedding.
+DALLE: Ok, what kind of art are you interested in?
+CUSTOMER: We're not really sure. We want something that captures our memories of the day.
+DALLE: Ok, let me ask you some questions about the wedding. Where was the ceremony held?
+CUSTOMER: It was at a church.
+DALLE: Was it a traditional church wedding?
+CUSTOMER: Yes, it was a very formal affair.
+DALLE: What kind of memories do you want to capture?
+CUSTOMER: We want to remember the happiness and love we felt on that day.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a bride and groom standing at the altar. The bride is wearing a white dress and the groom is wearing a black tuxedo. They are holding hands and looking into each other's eyes. There is a smile on both of their faces.

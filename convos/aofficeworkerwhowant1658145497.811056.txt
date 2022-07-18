@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: Well, I work in an office and I'm looking for something to spruce up my cubicle.
+DALLE: Okay, what kind of job do you have?
+CUSTOMER: I'm an administrative assistant.
+DALLE: And what's the company culture like?
+CUSTOMER: It's pretty corporate.
+DALLE: So you're looking for something that's corporate-appropriate?
+CUSTOMER: Yeah, but I also want it to reflect my personality.
+DALLE: What's your personality like?
+CUSTOMER: I'm pretty laid-back.
+DALLE: Okay, so you don't want anything too serious.
+CUSTOMER: No, nothing too stuffy.
+DALLE: How about a landscape?
+CUSTOMER: That could work.
+DALLE: What kind of landscape?
+CUSTOMER: I don't know...something pretty?
+DALLE: Is there anything else you'd like to include?

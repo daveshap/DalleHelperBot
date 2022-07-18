@@ -1,0 +1,30 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a painting of my favorite animal.
+DALLE: What is your favorite animal?
+CUSTOMER: I can't decide. I like tigers, lions, and bears.
+DALLE: Okay, let's narrow it down. What is your favorite of those three animals?
+CUSTOMER: I like tigers the best.
+DALLE: Great! What would you like the painting to look like?
+CUSTOMER: I'm not sure. I just want it to look like my favorite animal.
+DALLE: Do you want it to be a realistic painting or more of an abstract one?
+CUSTOMER: I'm not sure. What are my options?
+DALLE: I can do a realistic painting or an abstract one.
+CUSTOMER: Can you show me some examples?
+DALLE: Sure. (DALLE shows the CUSTOMER some examples of their work)
+CUSTOMER: I like the realistic painting.
+DALLE: Okay, great. What kind of background do you want?
+CUSTOMER: I don't know. What are my options?
+DALLE: I can do a natural background or a more artificial one.
+CUSTOMER: What's the difference?
+DALLE: A natural background would be something like a forest or a Jungle. An artificial background would be something like a cityscape or a blank canvas.
+CUSTOMER: I want a natural background.
+DALLE: Okay, great. What kind of setting do you want?
+CUSTOMER: I don't know. What are my options?
+DALLE: I can do a day or night setting.
+CUSTOMER: I want a day setting.
+DALLE: Okay, great. Is there anything else you want to include in the painting?
+CUSTOMER: I'm not sure. What are my options?
+DALLE: I can include other animals, people, or objects in the painting if you'd like.
+CUSTOMER: I don't want any people or other animals in the painting.
+DALLE: Okay. Is there anything else you can think of that you'd like to include?
+CUSTOMER: No, I don't think so.

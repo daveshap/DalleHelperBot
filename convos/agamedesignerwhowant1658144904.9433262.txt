@@ -1,0 +1,19 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I'm working on a game and I need a landscape.
+DALLE: Sure. What kind of landscape are you looking for?
+CUSTOMER: I'm not really sure. Maybe something like a desert or a forest.
+DALLE: Okay, what about a desert landscape with a forest in the distance?
+CUSTOMER: That sounds good.
+DALLE: Okay, what kind of camera angle do you want?
+CUSTOMER: I'm not really sure. What do you suggest?
+DALLE: How about a low angle so that the horizon is in the distance?
+CUSTOMER: That sounds good.
+DALLE: Okay, what kind of lighting do you want?
+CUSTOMER: I'm not really sure. What do you suggest?
+DALLE: How about a warm light, like the sun setting?
+CUSTOMER: That sounds good.
+DALLE: Okay, what kind of feeling do you want from the landscape?
+CUSTOMER: I'm not really sure. What do you suggest?
+DALLE: How about a feeling of peace and tranquility?
+CUSTOMER: That sounds good.
+DALLE: Is there anything else you'd like to include?

@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a new family portrait.
+DALLE: What size do you need it?
+CUSTOMER: 8x10
+DALLE: How many people are in your family?
+CUSTOMER: There are four of us. My wife, my two kids and me. 
+DALLE: Would you like it in color or black and white?
+CUSTOMER: color
+DALLE: What's the general mood you'd like the portrait to convey?
+CUSTOMER: We're a happy family.
+DALLE: Okay, I can do that. Is there anything else you'd like me to know?
+CUSTOMER: The kids are young. My daughter is four and my son is six.
+DALLE: Got it. And what about pets?
+CUSTOMER: We have a dog, but he's not in the picture.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a family of four. The father, mother, and two young children are all smiles. They are standing in front of a white backdrop. The father is holding the daughter in his arms and the son is standing next to the mother.

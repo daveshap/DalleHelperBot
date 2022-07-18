@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just wanted something abstract.
+DALLE: What kind of abstract?
+CUSTOMER: I don't know. Just something that looks cool.
+DALLE: What do you mean by "cool"?
+CUSTOMER: I don't know. Something that looks different.
+DALLE: What kind of different?
+CUSTOMER: I don't know. Something that isn't like anything else.
+DALLE: That's a tall order. Can you give me some more specific ideas?
+CUSTOMER: I don't know. I just want something that looks really cool.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a large, white canvas with a black, geometric shape in the center. The shape is made up of a series of interlocking triangles. The background is a deep blue, and the overall effect is very striking.

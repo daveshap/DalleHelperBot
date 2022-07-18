@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know, something cool I guess?
+DALLE: Alright, let's start with what kind of vibe are you going for?
+CUSTOMER: I want it to be kind of dark and mysterious.
+DALLE: Okay, what kind of scene are you thinking of?
+CUSTOMER: Maybe some kind of ruins or something?
+DALLE: Okay, what kind of feeling do you want from the image?
+CUSTOMER: I want it to feel really old and like there's a story behind it.
+DALLE: Alright, what kind of effects are you looking for?
+CUSTOMER: I want it to look like it's been rained on or something.
+DALLE: Is there anything else you'd like to include?

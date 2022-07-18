@@ -1,0 +1,10 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're looking for a new piece of art for our wedding.
+DALLE: Okay, what kind of art are you thinking?
+CUSTOMER: We're not really sure. What do you suggest?
+DALLE: Well, I can do digital art, photography, 3D renders, painting. What interests you?
+CUSTOMER: We like the idea of photography, but we're not sure what kind of scene, setting, or subject we want.
+DALLE: Do you have any ideas about what kind of feeling or effect you want the piece to have?
+CUSTOMER: We want it to be romantic and capture our memories from the wedding.
+DALLE: That sounds great! I suggest we do a photography session where I take pictures of you both at your wedding. We can discuss what kind of poses, camera angles, and lenses you're interested in. Does that sound like something you'd be interested in?
+CUSTOMER: Yes, that sounds perfect! Thank you for your help.

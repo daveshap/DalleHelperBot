@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a corporate logo.
+DALLE: What kind of logo?
+CUSTOMER: A happy one.
+DALLE: What kind of company is it?
+CUSTOMER: A marketing company.
+DALLE: What kind of products or services does your company offer?
+CUSTOMER: We offer a wide range of marketing and advertising services.
+DALLE: What is your company's mission?
+CUSTOMER: Our mission is to help our clients grow their businesses by providing effective marketing and advertising solutions.
+DALLE: What are your company's values?
+CUSTOMER: Our values are creativity, innovation, and results.
+DALLE: What is your company's target market?
+CUSTOMER: Our target market is small to medium-sized businesses.
+DALLE: Is there anything else you'd like to include?

@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not quite sure. I want something abstract, but I don't know what that would look like.
+DALLE: Do you have any ideas of what you would like it to represent?
+CUSTOMER: No, not really. I just know I want it to be abstract.
+DALLE: Would you like it to be geometric?
+CUSTOMER: Yes, I think that would be cool.
+DALLE: Would you like it to be symmetrical?
+CUSTOMER: No, I want it to be asymmetrical.
+DALLE: Would you like it to be colorful?
+CUSTOMER: Yes, I want it to be very colorful.
+DALLE: Is there anything else you'd like to include?

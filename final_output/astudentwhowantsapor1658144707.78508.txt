@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a portrait of my family, but I don't know what kind of style or angle or anything.
+DALLE: Okay, let's start with basics then. What is your family's ethnicity?
+CUSTOMER: We're Hispanic.
+DALLE: And how many people are in your family?
+CUSTOMER: There are six of us.
+DALLE: And how do you want the portrait to feel? Formal or informal?
+CUSTOMER: I guess informal.
+DALLE: What kind of background do you want?
+CUSTOMER: I don't know. Maybe just a blank wall?
+DALLE: Okay, and what kind of pose do you want?
+CUSTOMER: I don't know. Just everyone standing?
+DALLE: Okay, and are there any specific details you want in the portrait?
+CUSTOMER: I don't know. Just everyone looking happy, I guess.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: Dalle is taking a family portrait. There are six people in the portrait, all of Hispanic ethnicity. They are posing informally, standing in front of a blank wall. Everyone in the portrait is looking happy.

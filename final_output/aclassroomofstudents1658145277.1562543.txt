@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're looking for a new mural for our school.
+DALLE: What kind of school is it?
+CUSTOMER: A public elementary school.
+DALLE: What are the students like?
+CUSTOMER: They're very diverse. We have a lot of different cultures represented.
+DALLE: What kind of feeling do you want the mural to have?
+CUSTOMER: We want it to be inspiring and uplifting.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The mural should be of a sunburst or sunrise, with mountains in the background. The colors should be warm and inviting, with plenty of yellows, oranges, and reds.

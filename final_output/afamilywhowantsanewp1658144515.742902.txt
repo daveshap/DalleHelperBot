@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a new family portrait.
+DALLE: What's the occasion?
+CUSTOMER: We just wanted a new one for our home.
+DALLE: How many people are in your family?
+CUSTOMER: There are four of us - my wife, our two kids, and me.
+DALLE: Do you have any pets?
+CUSTOMER: We have a cat.
+DALLE: What kind of feel are you looking for?
+CUSTOMER: We want something that looks natural and informal.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: In the image, a family of four is sitting on a couch with their cat. They are all smiling and looking at the camera. The background is a neutral color, and the lighting is natural and bright.

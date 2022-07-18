@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need something for my sports equipment.
+DALLE: What kind of sport do you play?
+CUSTOMER: Soccer.
+DALLE: What position do you play?
+CUSTOMER: Striker.
+DALLE: What are your goals for this equipment?
+CUSTOMER: I want to be able to run faster and jump higher.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: This is for my team the Rockets.
+DALLE: Okay, what kind of image are you looking for? Photo? Art?
+CUSTOMER: ALL DONE
+DALLE: The image is of a soccer player in full uniform. They are running with the ball at their feet, about to kick it. The player is on a grass field with a goal in the background. There is a bright sun in the sky.

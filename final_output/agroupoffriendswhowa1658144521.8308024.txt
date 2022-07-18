@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're not really sure. We just know we want a new painting for our apartment.
+DALLE: Okay, well let's figure it out together. What are some of the things you and your friends like to do together?
+CUSTOMER: We like to go hiking, play video games, and watch movies.
+DALLE: Do you have any favorite movies or TV shows?
+CUSTOMER: Yes, we love the Lord of the Rings movies and the Game of Thrones TV show.
+DALLE: Okay, so based on that I'm thinking you might want a painting that has a lot of detail and is set in a fantasy or medieval-type world. Would that be something you're interested in?
+CUSTOMER: Yes, that sounds perfect!
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The painting shows a group of friends hiking through a dense forest. The friends are all smiles and seem to be enjoying themselves. In the background, there is a castle perched atop a hill.

@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I'm a fashion designer and I need a new pattern.
+DALLE: Okay. What kind of clothing is it for?
+CUSTOMER: It's for a dress.
+DALLE: What kind of fabric is it?
+CUSTOMER: Satin.
+DALLE: What style are you looking for?
+CUSTOMER: I'm not really sure. Maybe something with a lot of detail?
+DALLE: Can you give me an idea of the scene, setting, or subject you want?
+CUSTOMER: I want something that looks like it could be in a high fashion magazine.
+DALLE: What kind of feeling or effects do you want?
+CUSTOMER: I want it to look luxurious and expensive.
+DALLE: What kind of camera lenses and angles are you interested in?
+CUSTOMER: I'm not really sure. What do you suggest?
+DALLE: I suggest a 50mm lens for a closeup of the fabric and a low angle for an elegant look.

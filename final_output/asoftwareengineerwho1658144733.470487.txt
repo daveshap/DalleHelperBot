@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need something for my website but I don't know what I want.
+DALLE: Okay, well, what is your website about?
+CUSTOMER: I'm a software engineer.
+DALLE: Okay, so you might want something abstract then?
+CUSTOMER: Yeah, I think that would be cool.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image should be abstract and incorporate software engineering themes. It could include lines of code, computer components, or anything else related to the customer's profession.

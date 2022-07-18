@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a portrait of my family.
+DALLE: Can you describe your family to me?
+CUSTOMER: My family is African American. We're all pretty close in age, and we all have close relationships with each other.
+DALLE: What kind of setting do you want the portrait to be in?
+CUSTOMER: We could do it in our living room.
+DALLE: Do you want everyone looking at the camera or looking off in different directions?
+CUSTOMER: Looking off in different directions would be good.
+DALLE: What kind of mood do you want the portrait to have?
+CUSTOMER: I want it to look natural and relaxed.
+DALLE: Are there any specific people you want me to focus on?
+CUSTOMER: My parents, I guess.
+DALLE: Do you want me to use any special effects?
+CUSTOMER: No, I don't think so.
+DALLE: Is there anything else you'd like to include?

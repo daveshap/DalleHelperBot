@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I just know that I want a new painting.
+DALLE: Okay, well let's start with the basics then. What is the scene going to be?
+CUSTOMER: It's going to be a landscape.
+DALLE: What kind of landscape?
+CUSTOMER: I'm not really sure. Maybe something with rolling hills and a river?
+DALLE: That sounds nice. What kind of feeling are you going for?
+CUSTOMER: I want it to feel peaceful.
+DALLE: Okay, so we'll definitely want to use soothing colors then. Are there any specific colors you have in mind?
+CUSTOMER: No, not really. Just something that looks nice.
+DALLE: Alright. What about the effects? Are you looking for anything specific?
+CUSTOMER: No, not really. Just something that looks nice.
+DALLE: Is there anything else you'd like to include?

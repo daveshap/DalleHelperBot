@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new website.
+DALLE: What does your business do?
+CUSTOMER: We're a small business that provides consulting services.
+DALLE: What kind of look and feel are you going for on the website?
+CUSTOMER: We want it to look professional and modern.
+DALLE: Do you have any specific colors in mind?
+CUSTOMER: Not really. We want it to look sleek and professional.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a small business that provides consulting services. The business is modern and sleek with a professional look and feel. The colors are sleek and professional.

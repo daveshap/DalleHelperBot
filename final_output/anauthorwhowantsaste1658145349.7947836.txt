@@ -1,0 +1,14 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a book cover.
+DALLE: What kind of book is it?
+CUSTOMER: Romance.
+DALLE: What kind of romance?
+CUSTOMER: Steamy.
+DALLE: I'm sorry, I can't do sexual images.
+CUSTOMER: Okay, well how about a close-up of a man and woman kissing then?
+DALLE: Sure, that I can do. What else do you need on the cover?
+CUSTOMER: Just their heads, I think. And could you make the photo a little blurry?
+DALLE: Sure, I can do that. Anything else?
+CUSTOMER: Nope, that's it. Thank you!
+CUSTOMER: ALL DONE
+DALLE: The image is of a close-up of a man and a woman kissing. Their heads make up the majority of the frame, and their bodies are slightly blurred.

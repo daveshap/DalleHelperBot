@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a custom background for my website.
+DALLE: What's the website about?
+CUSTOMER: It's a personal blog.
+DALLE: What kind of vibe are you going for?
+CUSTOMER: I want it to be pretty and girly.
+DALLE: What colors do you like?
+CUSTOMER: Pink, purple, and green.
+DALLE: What kind of elements do you want in the background?
+CUSTOMER: I'm not really sure. Something with flowers, maybe?
+DALLE: Do you want it to be a photograph, digital art, or a painting?
+CUSTOMER: I don't know. What do you think would look best?
+DALLE: A photograph might be nice. I could take some pictures of flowers for you.
+CUSTOMER: That sounds great!
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The custom background for the customer's website is a photograph of flowers. The flowers are pink, purple, and green, and the background is a soft blur of one of those colors.

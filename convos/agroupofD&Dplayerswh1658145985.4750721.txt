@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're not really sure. We're looking for a group art of our D&D characters.
+DALLE: Okay, I can definitely do that. Can you tell me a little bit more about your characters? Their races, genders, and what kind of campaign you're playing.
+CUSTOMER: We have a mix of races and genders. Our campaign is a home game set in a homebrew world.
+DALLE: That sounds great. Are there any specific scenes or settings you want me to include?
+CUSTOMER: We'd like a portrait of our characters, maybe in a tavern or something like that.
+DALLE: Okay, I can definitely do that. Are there any specific poses or angles you want me to use?
+CUSTOMER: We're not really sure. Whatever you think would look best.
+DALLE: Is there anything else you'd like to include?

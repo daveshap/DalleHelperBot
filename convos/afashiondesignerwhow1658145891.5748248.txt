@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I'm a fashion designer and I need a new pattern for a piece of clothing I'm working on.
+DALLE: What kind of clothing is it?
+CUSTOMER: It's a dress.
+DALLE: What kind of fabric is it made out of?
+CUSTOMER: It's a cotton blend.
+DALLE: What style of dress is it?
+CUSTOMER: It's a summer dress.
+DALLE: What color is it?
+CUSTOMER: It's white.
+DALLE: What feeling do you want the dress to convey?
+CUSTOMER: I want it to be light and airy.
+DALLE: Would you like me to add any special effects?
+CUSTOMER: No, I don't think so.
+DALLE: Is there anything else you'd like to include?

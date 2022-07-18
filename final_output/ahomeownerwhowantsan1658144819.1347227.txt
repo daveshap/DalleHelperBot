@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know, something for my living room I guess.
+DALLE: What's the room like?
+CUSTOMER: It's beige and has a lot of sunlight.
+DALLE: What kind of feeling do you want the piece to convey?
+CUSTOMER: I want it to be calming.
+DALLE: What colors do you like?
+CUSTOMER: I like blues and greens.
+DALLE: What's your favorite type of art?
+CUSTOMER: I really like photography.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a blue and green abstract painting. The blue is a light sky blue and the green is a dark forest green. The painting is on a white canvas with black streaks throughout. It is hung on a light beige wall with a lot of sunlight coming in from the window. The painting is meant to be calming and is also a photography.

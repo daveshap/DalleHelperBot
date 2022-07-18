@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: A family portrait.
+DALLE: Okay, what kind of family?
+CUSTOMER: Husband, wife, two kids.
+DALLE: And what about the setting?
+CUSTOMER: Just at our house.
+DALLE: Is there anything special you want me to capture about your family?
+CUSTOMER: Just our everyday life.
+DALLE: Okay, so nothing too posed or staged then. Is there anything else you'd like to include?

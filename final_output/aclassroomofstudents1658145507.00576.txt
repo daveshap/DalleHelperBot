@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're looking for a mural for our school.
+DALLE: Okay, what kind of school is it?
+CUSTOMER: It's a primary school.
+DALLE: What are the ages of the students?
+CUSTOMER: 5 to 11.
+DALLE: What is the community like?
+CUSTOMER: It's a very tight-knit community.
+DALLE: What are the students' interests?
+CUSTOMER: They're interested in nature and the environment.
+DALLE: What kind of feeling do you want the mural to have?
+CUSTOMER: We want it to be hopeful and inspiring.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The requested mural features a group of children standing in front of a large tree. The tree has a bird's nest in it, and the children are looking up at the bird. The sky is blue and there are some clouds. The children are all smiling and appear to be very happy.

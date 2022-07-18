@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not sure. What do you have?
+DALLE: I can do anything - digital art, photography, 3D renders, painting. Let me know what you're thinking and I'll see what I can do.
+CUSTOMER: I'm a chef and I need a new recipe.
+DALLE: Sure. What kind of ingredients do you have?
+CUSTOMER: I have chicken, mushrooms, and broccoli.
+DALLE: What cooking method do you want to use?
+CUSTOMER: I was thinking of stir-frying.
+DALLE: Okay, what flavors do you want to add?
+CUSTOMER: I was thinking maybe some garlic and ginger.
+DALLE: Is there anything else you'd like to include?

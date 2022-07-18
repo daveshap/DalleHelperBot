@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need an opening title sequence for a new show I'm working on.
+DALLE: Ok, what can you tell me about the show?
+CUSTOMER: It's a sci-fi show set in space.
+DALLE: What kind of feel are you going for?
+CUSTOMER: Exciting, but also kind of mystical.
+DALLE: Who are the main characters?
+CUSTOMER: There are three main characters, two women and a man.
+DALLE: What do they look like?
+CUSTOMER: They're all very attractive, and they're all wearing space suits.
+DALLE: What kind of background are you thinking of?
+CUSTOMER: I'm not sure. Maybe something with stars or planets?
+DALLE: What kind of effects do you want?
+CUSTOMER: I want it to look really cool and futuristic.
+DALLE: Is there anything else you'd like to include?

@@ -1,0 +1,19 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're not really sure. We're a group of D&D players and we want a group art.
+DALLE: Okay, I can do that. Can you tell me a little more about your characters?
+CUSTOMER: We have a human fighter, an elf wizard, a dwarf cleric, and a halfling rogue.
+DALLE: Got it. Do you have any particular setting or scene in mind?
+CUSTOMER: Not really. Somewhere adventurous I guess.
+DALLE: Okay. And what about the subject? Is there anything specific you want me to include?
+CUSTOMER: Just our characters.
+DALLE: Any particular style you're looking for?
+CUSTOMER: Something that looks like a painting, I guess.
+DALLE: And what kind of feeling do you want the piece to have?
+CUSTOMER: Exciting, I guess. Maybe a little bit dangerous.
+DALLE: Are there any particular effects you want me to include?
+CUSTOMER: Not sure. What do you suggest?
+DALLE: Well, I could use a wide angle lens to give the impression of a large, open world. Or I could use a close up lens to make the characters seem larger than life.
+CUSTOMER: That sounds good. Let's go with the close up lens.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a group of four adventurers, standing close together with their weapons drawn. The human fighter is in the forefront, with an elf wizard and dwarf cleric flanking him. Behind them is a halfling rogue, creeping up on something unseen. The characters are drawn in detail, with the close up lens giving them an imposing, larger-than-life quality. The background is left deliberately vague, with only a few hints of mountains or trees in the distance. The feeling of the piece is exciting and dangerous, with the close up lens adding a sense of immediacy to the scene.

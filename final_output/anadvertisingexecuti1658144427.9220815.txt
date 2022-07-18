@@ -1,0 +1,18 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need an ad campaign for my company.
+DALLE: What kind of company is it?
+CUSTOMER: We make sports equipment.
+DALLE: What is your target market?
+CUSTOMER: Young adults.
+DALLE: What is the message you want to communicate?
+CUSTOMER: We're the best at what we do.
+DALLE: What kind of images do you want?
+CUSTOMER: Images of people using our products in an energetic way.
+DALLE: Do you want digital art, photography, 3D renders, or painting?
+CUSTOMER: I'm not sure. What do you suggest?
+DALLE: I think digital art would be best for this project.
+CUSTOMER: Okay, that sounds good.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: No, I trust you. Just make something that looks good.
+CUSTOMER: ALL DONE
+DALLE: A digital art image of people using sports equipment in an energetic way. The image should communicate that the company's products are the best in the market.

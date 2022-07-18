@@ -1,0 +1,18 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new website.
+DALLE: Ok, what kind of business are you in?
+CUSTOMER: I'm a consultant.
+DALLE: What kind of consultant?
+CUSTOMER: I help businesses with their marketing.
+DALLE: Ok, so you need a website that looks professional and is easy to navigate. Is that right?
+CUSTOMER: Yes, that's right.
+DALLE: Do you have any ideas about what you want the website to look like?
+CUSTOMER: Not really. I guess I want it to look modern and sleek.
+DALLE: Ok, I can work with that. Do you have any colors in mind?
+CUSTOMER: Blue would be good.
+DALLE: Ok, blue it is. Do you want any other colors?
+CUSTOMER: No, I think blue will be good.
+DALLE: Ok, so we're looking for a modern, sleek website with a blue color scheme. Is that right?
+CUSTOMER: Yes, that sounds good.
+CUSTOMER: ALL DONE
+DALLE: The image is of a modern, sleek website with a blue color scheme. The website is easy to navigate and looks professional.

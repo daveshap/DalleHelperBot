@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need something for my sports equipment.
+DALLE: What kind of sport do you play?
+CUSTOMER: Basketball.
+DALLE: What position do you play?
+CUSTOMER: Shooting guard.
+DALLE: How do you want to improve your performance?
+CUSTOMER: I want to be able to jump higher and shoot more accurately.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image should show a young man, around high school age, playing basketball. He should be wearing a typical basketball uniform, including a jersey and shorts. He should be shooting the ball, and the ball should be going into the basket. In the background, there should be a basketball hoop.

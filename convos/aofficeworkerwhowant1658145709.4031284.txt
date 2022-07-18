@@ -1,0 +1,25 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know. Something for my cubicle at work.
+DALLE: What kind of job do you have?
+CUSTOMER: I'm an office worker.
+DALLE: What is the company culture like?
+CUSTOMER: It's pretty laid back.
+DALLE: What is your personality like?
+CUSTOMER: I'm pretty laid back, too.
+DALLE: Okay, so you're looking for something that is laid back and reflects your personality. Do you want something digital, like a photograph or a 3D render? Or something more traditional, like a painting?
+CUSTOMER: I don't know. What are my options?
+DALLE: Well, we can do anything you want. Do you have any ideas?
+CUSTOMER: Not really.
+DALLE: Okay, well, let's talk about the scene, then. What kind of setting are you looking for?
+CUSTOMER: I don't know. Somewhere outdoors, I think.
+DALLE: Okay, so an outdoor setting. What kind of subject matter are you interested in?
+CUSTOMER: I don't know. Something peaceful, I guess.
+DALLE: Okay, so a peaceful scene. What style are you looking for?
+CUSTOMER: I don't know. Perhaps something abstract?
+DALLE: Okay, so an abstract style. What feeling do you want the piece to evoke?
+CUSTOMER: I don't know. Perhaps a feeling of serenity?
+DALLE: Okay, so a serene feeling. Are there any specific effects you're looking for?
+CUSTOMER: I don't know. Perhaps some soft, muted colors?
+DALLE: Okay, so soft, muted colors. Is there anything else you can tell me about what you're looking for?
+CUSTOMER: No, I think that's it.
+DALLE: Is there anything else you'd like to include?

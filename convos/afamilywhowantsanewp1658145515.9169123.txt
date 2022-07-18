@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a new family portrait for our home.
+DALLE: Do you have any ideas about what you want?
+CUSTOMER: Not really. We just want something that looks nice.
+DALLE: Okay. I'll need to know a little bit more about your family. How many people are there?
+CUSTOMER: There are four of us. My husband, myself, and our two sons.
+DALLE: What are their ages?
+CUSTOMER: Our oldest is 18 and our youngest is 9.
+DALLE: Do you have any pets?
+CUSTOMER: We have a cat.
+DALLE: What is your family's ethnicity?
+CUSTOMER: We are white.
+DALLE: Is there anything else you'd like to include?

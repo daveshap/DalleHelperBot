@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new campaign.
+DALLE: What kind of campaign?
+CUSTOMER: I need to connect with the voters.
+DALLE: What kind of platform are you running on?
+CUSTOMER: I'm running on a platform of change.
+DALLE: What kind of change?
+CUSTOMER: I want to change the way things are done in this country.
+DALLE: What do you want to change?
+CUSTOMER: I want to change the way we treat each other.
+DALLE: Is there anything else you'd like to include?

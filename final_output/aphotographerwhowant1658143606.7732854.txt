@@ -1,0 +1,19 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't really know. I want something nature-y but from a different perspective.
+DALLE: Do you want it to be a photograph, a digital art piece, a painting, or something else?
+CUSTOMER: A photograph, I think.
+DALLE: What kind of camera do you want to use?
+CUSTOMER: I don't know. A DSLR, I guess.
+DALLE: What kind of lens do you want to use?
+CUSTOMER: A wide-angle lens, I think.
+DALLE: What kind of angle do you want?
+CUSTOMER: I want to be able to see the whole scene, but from a different perspective.
+DALLE: Okay, I can do that. Do you want to be in the photograph?
+CUSTOMER: No, I don't think so.
+DALLE: Okay, I can take the photograph from a different angle then. Do you want the focus to be on a specific thing?
+CUSTOMER: No, I want the whole scene in focus.
+DALLE: Okay, I can do that. Do you want to use a zoom?
+CUSTOMER: No, I don't think so.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image is of a nature scene, taken from a different perspective. The camera is a DSLR and the lens is a wide-angle lens. The focus is on the whole scene, and there is no zoom.

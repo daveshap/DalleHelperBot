@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a new logo for my company, but I don't know what kind of style I want.
+DALLE: Do you have any ideas about what you do and don't want?
+CUSTOMER: Not really. I want something that looks modern and corporate, but I'm open to suggestions.
+DALLE: What kind of company are you?
+CUSTOMER: We're a marketing firm.
+DALLE: Okay, let's try a few different styles then. Do you want something clean and simple or more complex?
+CUSTOMER: Simple is good.
+DALLE: What about a sans-serif font?
+CUSTOMER: That could work.
+DALLE: Do you want one color or multiple colors?
+CUSTOMER: One color is fine.
+DALLE: What color do you want?
+CUSTOMER: Blue is our company color, but I'm open to other options.
+DALLE: Is there anything else you'd like to include?

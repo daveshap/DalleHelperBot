@@ -1,0 +1,13 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a custom background for a website I'm working on.
+DALLE: Okay, what's the website about?
+CUSTOMER: It's a web design portfolio.
+DALLE: What kind of feel do you want for the website?
+CUSTOMER: I want it to look clean and modern.
+DALLE: What colors are you using?
+CUSTOMER: Black, white, and grey.
+DALLE: Any other specific requests?
+CUSTOMER: I want it to look professional and stylish.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image shows a black background with a white spiral in the center. The spiral is made up of thin, white lines that twist and turn around a central point. There is a small grey circle in the center of the spiral.

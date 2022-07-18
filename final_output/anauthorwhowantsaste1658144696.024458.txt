@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I'm not really sure. I need a book cover for a steamy romance novel.
+DALLE: I can't do sexual images, so we'll have to come up with something else. What's the book about?
+CUSTOMER: Two people who fall in love and have a lot of steamy sex.
+DALLE: What kind of scene do you want on the cover?
+CUSTOMER: I'm not sure. Maybe something with them in bed together?
+DALLE: What kind of feeling do you want the cover to convey?
+CUSTOMER: I want it to look hot and sexy.
+DALLE: I can do that. What kind of effects do you want?
+CUSTOMER: I'm not sure. Maybe some lens flares or light effects?
+DALLE: I can do that. Are you sure you don't want the cover to be too graphic?
+CUSTOMER: No, I think that would be good.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The cover image is of a man and woman in bed together, their bodies entwined in a passionate embrace. The woman is facing away from the viewer, while the man's chest is bare and visible. The sheets are pulled up around their waists, and there is a suggestion of movement, as though they have just finished making love. The overall effect is hot and sexy, with a sense of intimacy and stolen moments.

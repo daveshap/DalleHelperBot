@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a violent battle scene, but with no blood.
+DALLE: I can do that. What kind of weapons will be involved?
+CUSTOMER: No guns, just swords and magic.
+DALLE: OK. What kind of setting do you want?
+CUSTOMER: Something medieval, like a castle.
+DALLE: Do you want any specific people or creatures in the scene?
+CUSTOMER: Just humans.
+DALLE: What kind of emotions do you want the scene to evoke?
+CUSTOMER: Fear, anger, suspense.
+DALLE: What kind of effects do you want?
+CUSTOMER: I want it to look realistic.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: A group of men are fighting each other in a dark castle hallway, using only swords and magic. They look very angry and scared, and the scene is full of suspense. The lighting is dim, and the surrounding area is destroyed, with debris everywhere.

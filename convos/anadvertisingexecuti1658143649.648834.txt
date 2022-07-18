@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: I need a new campaign for my product.
+DALLE: Okay, what is your product?
+CUSTOMER: It's a new type of toothpaste.
+DALLE: What is the target market for your product?
+CUSTOMER: Anyone who uses toothpaste.
+DALLE: What is the message you want to communicate with your campaign?
+CUSTOMER: I want to show that our toothpaste is the best on the market.
+DALLE: Is there anything else you'd like to include?

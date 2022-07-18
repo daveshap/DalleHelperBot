@@ -1,0 +1,17 @@
+DALLE: What can I make for you today?
+CUSTOMER: I don't know. Something violent, I guess.
+DALLE: What do you mean by violent?
+CUSTOMER: I want a battle scene. With people fighting and dying.
+DALLE: I'm sorry, but I can't do violence.
+CUSTOMER: Okay, then maybe something with a lot of blood.
+DALLE: I can do that. What else do you want in the scene?
+CUSTOMER: I don't know. Some kind of setting, I guess.
+DALLE: Do you want it to be realistic or fantasy?
+CUSTOMER: Realistic.
+DALLE: What kind of location do you want?
+CUSTOMER: I don't know. Maybe a city?
+DALLE: What time of day do you want it to be?
+CUSTOMER: Night.
+DALLE: Do you want any particular effects?
+CUSTOMER: I don't know. Whatever you think would look good.
+DALLE: Is there anything else you'd like to include?

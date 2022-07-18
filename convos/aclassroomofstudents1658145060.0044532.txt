@@ -1,0 +1,11 @@
+DALLE: What can I make for you today?
+CUSTOMER: We're looking for a new mural for our school.
+DALLE: Okay, what kind of school is it?
+CUSTOMER: It's a primary school.
+DALLE: What age range are the students?
+CUSTOMER: They're between six and twelve years old.
+DALLE: What is the community like?
+CUSTOMER: It's a small town, so everyone knows each other.
+DALLE: What kind of feeling do you want the mural to have?
+CUSTOMER: We want it to be upbeat and positive.
+DALLE: Is there anything else you'd like to include?

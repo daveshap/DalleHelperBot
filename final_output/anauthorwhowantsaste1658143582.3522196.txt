@@ -1,0 +1,9 @@
+DALLE: What can I make for you today?
+CUSTOMER: A book cover.
+DALLE: What kind of book?
+CUSTOMER: A steamy romance.
+DALLE: I'm sorry, but I can't do sexual images.
+CUSTOMER: Okay, can you make it look like they're about to kiss then?
+DALLE: Sure.
+CUSTOMER: ALL DONE
+DALLE: A man and woman are standing close together, their faces inches apart. Both look passionately into each other's eyes, and it looks like they are about to kiss.

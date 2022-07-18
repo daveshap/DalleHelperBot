@@ -1,0 +1,15 @@
+DALLE: What can I make for you today?
+CUSTOMER: We need a new family portrait.
+DALLE: Ok, let's get started. How many people are in your family?
+CUSTOMER: There are four of us.
+DALLE: And how old are the children?
+CUSTOMER: They're both teenagers.
+DALLE: Do you have any pets?
+CUSTOMER: We have a dog.
+DALLE: What is the ethnicity of your family?
+CUSTOMER: We're Caucasian.
+DALLE: What is the gender of your family members?
+CUSTOMER: We're all male.
+DALLE: Is there anything else you'd like to include?
+CUSTOMER: ALL DONE
+DALLE: The image shows a family of four people. The children are teenagers, and the family has a dog. The family is Caucasian and all members are male.
